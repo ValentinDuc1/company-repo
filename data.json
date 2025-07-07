@@ -1,0 +1,1502 @@
+[    
+    { "name": "Sumas Biotech", "sector": "Biotechnology & Healthcare", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "Develops, manufactures, and distributes biological medicines." }, 
+
+     { "name": "Vircagen", "sector": "Biotechnology & Healthcare", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "GMP gene therapy company focused on development and production." }, 
+
+     { "name": "Bioibeca", "sector": "Biotechnology & Healthcare", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Global life science company providing solutions for pharma, biotech, and cosmetics." }, 
+
+     { "name": "VIRCELL", "sector": "Biotechnology & Healthcare", "location": "Andalusia, Spain", "revenue": "$10M to $50M", "description": "Biotechnology company providing solutions for infectious disease diagnosis." }, 
+
+     { "name": "Biokit", "sector": "Biotechnology & Healthcare", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Provides R&D and manufacturing services for in vitro diagnostic reagents." }, 
+
+     { "name": "ROVI Pharma Industrial Services", "sector": "Biotechnology & Healthcare", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "Specializes in pharmaceutical manufacturing and development services." }, 
+
+     { "name": "BioSystems", "sector": "Biotechnology & Healthcare", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Designs, develops, and manufactures analytical instruments and reagents." }, 
+
+     { "name": "Oryzon Health", "sector": "Biotechnology & Healthcare", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Develops epigenetics-based therapies for cancer and neurodegenerative diseases." }, 
+
+     { "name": "Orbea S. Coop", "sector": "Automotive & Aerospace", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "Manufactures and assembles a variety of bikes." }, 
+
+     { "name": "Talgo Group", "sector": "Automotive & Aerospace", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "Designs, manufactures, and maintains rolling stock for the railway industry." }, 
+
+     { "name": "Stark Future", "sector": "Automotive & Aerospace", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Manufactures electric motorcycles." }, 
+
+     { "name": "Irizar", "sector": "Automotive & Aerospace", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "Spanish-based manufacturer of luxury buses and coaches." }, 
+
+     { "name": "Merit Automotive Electronics", "sector": "Automotive & Aerospace", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Global supplier of automotive electronics." }, 
+
+     { "name": "ALESTIS AEROSPACE", "sector": "Automotive & Aerospace", "location": "Andalusia, Spain", "revenue": "$10M to $50M", "description": "Aerostructure supplier specializing in composite and metallic aerostructures." }, 
+
+     { "name": "Aludec", "sector": "Automotive & Aerospace", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Manufactures aluminum components for the automotive industry." }, 
+
+     { "name": "Wallbox", "sector": "Automotive & Aerospace", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Provides charging solutions for electric vehicles." }, 
+
+     { "name": "Blumaq Corp", "sector": "Manufacturing & Industrial", "location": "Comunidad Valenc, Spain", "revenue": "$10M to $50M", "description": "Offers products, maintenance, and replacement parts for heavy machinery." }, 
+
+     { "name": "OTR Wheel Engineering", "sector": "Manufacturing & Industrial", "location": "Galicia, Spain", "revenue": "$10M to $50M", "description": "Engineering company providing specialized wheels for industrial vehicles." }, 
+
+     { "name": "La Farga", "sector": "Manufacturing & Industrial", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Metallurgy company producing and selling copper products." }, 
+
+     { "name": "TGB Group", "sector": "Manufacturing & Industrial", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Manufactures patented solutions for various industries." }, 
+
+     { "name": "Fermator Group", "sector": "Manufacturing & Industrial", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Manufactures, supplies, and installs doors for lifts and elevators." }, 
+
+     { "name": "Fagor Arrasate", "sector": "Manufacturing & Industrial", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "Manufactures industrial metal stamping and forming machinery." }, 
+
+     { "name": "COMEXI GROUP", "sector": "Manufacturing & Industrial", "location": "Girona, Spain", "revenue": "$10M to $50M", "description": "Designs, manufactures, and markets machinery for flexible packaging." }, 
+
+     { "name": "Quadpack", "sector": "Manufacturing & Industrial", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Global provider of packaging solutions for the beauty industry." }, 
+
+     { "name": "Viscofan", "sector": "Food & Consumer Goods", "location": "Navarra, Spain", "revenue": "$10M to $50M", "description": "Manufactures and distributes casings for the meat industry." }, 
+
+     { "name": "Audens Food", "sector": "Food & Consumer Goods", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Manufacturing and marketing company in the frozen food sector." }, 
+
+     { "name": "Hiberpedia", "sector": "Food & Consumer Goods", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Manufacturer of High Pressure Processing (HPP) equipment for the food industry." }, 
+
+     { "name": "Kettal", "sector": "Food & Consumer Goods", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Creator and producer of classic outdoor furniture." }, 
+
+     { "name": "Salerm Cosmetics", "sector": "Food & Consumer Goods", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Manufactures and retails hair care products." }, 
+
+     { "name": "CAF Signalling", "sector": "Technology & Engineering", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "Develops, designs, manufactures, and maintains railway signaling systems." }, 
+
+     { "name": "Antares Consulting", "sector": "Technology & Engineering", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Creates management and consulting solutions for healthcare and pharma." }, 
+
+     { "name": "Ceit", "sector": "Technology & Engineering", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "Non-profit research center focused on industrial applied research." }, 
+
+     { "name": "Zelenza", "sector": "Technology & Engineering", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "Provides integrated solutions in cybersecurity." }, 
+
+     { "name": "GES", "sector": "Technology & Engineering", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "Renewables & environment company providing engineering, construction, and services." }, 
+
+     { "name": "Power Electronics", "sector": "Technology & Engineering", "location": "Comunidad Valenc, Spain", "revenue": "$10M to $50M", "description": "Global leader in power conversion solutions for solar and energy storage." }, 
+
+     { "name": "Barcelona Supercomputing", "sector": "Technology & Engineering", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Public research center specializing in supercomputing technologies." }, 
+
+     { "name": "Tecnalia", "sector": "Technology & Engineering", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "Private research and technology organization." }, 
+
+     { "name": "Konecta Minelia", "sector": "Technology & Engineering", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "Offers IT service and system management." }, 
+
+     { "name": "Jeantologia", "sector": "Technology & Engineering", "location": "Comunidad Valenc, Spain", "revenue": "$10M to $50M", "description": "Develops sustainable and efficient solutions for the denim industry." }, 
+
+     { "name": "TOLSA", "sector": "Chemicals", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "Provides specialized minerals and additives." }, 
+
+     { "name": "MediChem", "sector": "Chemicals", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Manufactures and markets cleaning and maintenance products." }, 
+
+     { "name": "Iberchem", "sector": "Chemicals", "location": "Murcia, Spain", "revenue": "$10M to $50M", "description": "Fragrance and flavor company." }, 
+
+     { "name": "DANOSA", "sector": "Construction", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "Manufacturer of waterproofing systems, thermal and acoustic insulation." }, 
+
+     { "name": "ACTIU", "sector": "Other Industries", "location": "Comunidad Valenc, Spain", "revenue": "$10M to $50M", "description": "Designs and manufactures furniture for work spaces." }, 
+
+     { "name": "MAIER Group", "sector": "Automotive & Aerospace", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "A plastic parts manufacturer of complex automotive components." }, 
+
+     { "name": "Morchem", "sector": "Chemicals", "location": "Barcelona, Spain", "revenue": "$10M to $50M", "description": "Morchem supplies adhesives and solutions for the flexible packaging industry." }, 
+
+     { "name": "PharmaMar (Zeltia Group)", "sector": "Biotechnology & Healthcare", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "PharmaMar is a pharma-based company focused on developing anti-tumor drugs." }, 
+
+     { "name": "COEXPAN", "sector": "Manufacturing & Industrial", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "A manufacturer of rigid plastic films and thermoformed products for food packaging." }, 
+
+     { "name": "Formato A6", "sector": "Other Industries", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "A market leader in delivering robust printing solutions." }, 
+
+     { "name": "Fiesta Colombina", "sector": "Food & Consumer Goods", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "Fiesta Colombina, S.L.U. produces confectionery products." }, 
+
+     { "name": "LCN", "sector": "Technology & Engineering", "location": "Castilla-La Mancha, Spain", "revenue": "$10M to $50M", "description": "An industrial engineering company that specializes in the design and construction of industrial facilities." }, 
+
+     { "name": "PGI Engineering", "sector": "Technology & Engineering", "location": "Girona, Spain", "revenue": "$10M to $50M", "description": "Specialized in facilities and critical infrastructure engineering." }, 
+
+     { "name": "GRI Renewable Industries", "sector": "Manufacturing & Industrial", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "A manufacturer of towers and flanges for wind turbines." }, 
+
+     { "name": "Ramondin", "sector": "Manufacturing & Industrial", "location": "Pais Vasco, Spain", "revenue": "$10M to $50M", "description": "A manufacturer of tin, complex, and aluminum capsules for still and sparkling wines." }, 
+
+     { "name": "Hega Hogar", "sector": "Food & Consumer Goods", "location": "Comunidad Valenc, Spain", "revenue": "$10M to $50M", "description": "A thermoplastics manufacturing company that produces household goods." }, 
+
+     { "name": "MTorres Disenos Industriales", "sector": "Manufacturing & Industrial", "location": "Navarra, Spain", "revenue": "$10M to $50M", "description": "MTorres Disenos Industriales provides industrial automation solutions." }, 
+
+     { "name": "AGV", "sector": "Manufacturing & Industrial", "location": "Catalonia, Spain", "revenue": "$10M to $50M", "description": "Has designed, produced and distributed engineering solutions." }, 
+
+     { "name": "Aircraft Construction and Fa.", "sector": "Automotive & Aerospace", "location": "Madrid, Spain", "revenue": "$10M to $50M", "description": "An integrated electronic services engineering company." }, 
+
+     { "name": "Celsa Group", "sector": "Manufacturing & Industrial", "location": "Barcelona, Spain", "revenue": "$10M to $500M", "description": "Owns and manages steel producers, rolling mills, and distribution companies." }, 
+
+     { "name": "Eckerle Holding", "sector": "Electronics", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Eckerle Holding develops brush systems and DC modules and manufactures components for electric motors." }, 
+
+     { "name": "Helmholtz-Zentrum Hereon", "sector": "Biotechnology & Healthcare", "location": "Schleswig-Holstein, Germany", "revenue": "$100M to $500M", "description": "Helmholtz-Zentrum Hereon is a non-profit organization that conducts research in materials science and coastal research." }, 
+
+     { "name": "Meiser", "sector": "Building Material", "location": "Saarland, Germany", "revenue": "$100M to $500M", "description": "Meiser is a manufacturing company that offers a wide range of gratings, stair treads, and other metal products." }, 
+
+     { "name": "Martinswerk GmbH", "sector": "Chemical", "location": "Hessen, Germany", "revenue": "$100M to $500M", "description": "Martinswerk is a specialty chemicals company and a leading manufacturer of aluminum hydroxide and magnesium hydroxide products." }, 
+
+     { "name": "WERU", "sector": "Building Material", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "WERU manufactures and supplies windows, doors, and roller shutters." }, 
+
+     { "name": "Meffert AG", "sector": "Building Material", "location": "Rhineland-Palatinate, Germany", "revenue": "$100M to $500M", "description": "Meffert AG specializes in the manufacture and supply of paints, varnishes, and coatings." }, 
+
+     { "name": "Heller", "sector": "Manufacturing & Industrial", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Heller offers horizontal machining centers, crankshaft and camshaft machines, and flexible manufacturing systems." }, 
+
+     { "name": "Weber Web", "sector": "Machinery Manufacturing", "location": "Hessen, Germany", "revenue": "$100M to $500M", "description": "Weber Web is a robotic appliance firm that produces and sells industrial robots." }, 
+
+     { "name": "Altmäer Präzision", "sector": "Automotive & Aerospace", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Altmäer Präzision provides fluidic and mechatronic systems for various industries." }, 
+
+     { "name": "Jokey", "sector": "Packaging", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Jokey provides plastic packaging and molding and offers a wide range of plastic containers for various applications." }, 
+
+     { "name": "FRIMO Group", "sector": "Automotive & Aerospace", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "FRIMO Group is a leading manufacturer of tools and equipment for plastics processing." }, 
+
+     { "name": "Forschner", "sector": "Automotive & Aerospace", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Forschner provides e-mobility, precision turned parts, cabling systems, and measurement technology." }, 
+
+     { "name": "SCHWENK Cement", "sector": "Building Material", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "SCHWENK Cement is a building materials company." }, 
+
+     { "name": "Offen Group", "sector": "Manufacturing & Industrial", "location": "Hamburg, Germany", "revenue": "$100M to $500M", "description": "Offen Group is a company that specializes in the production and distribution of high-quality steel products." }, 
+
+     { "name": "OKE Group", "sector": "Automotive & Aerospace", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "OKE Group specializes in developing and producing a wide range of plastic and metal components." }, 
+
+     { "name": "Weber Automotive", "sector": "Automotive & Aerospace", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Weber Automotive is the global automotive supply industry." }, 
+
+     { "name": "Junker Group", "sector": "Machinery Manufacturing", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Junker Group develops, produces, and sells grinding machines for the metalworking industry." }, 
+
+     { "name": "Fichtner", "sector": "Consulting & Engineering", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Fichtner is an engineering and consulting company in the fields of energy, environment, and infrastructure." }, 
+
+     { "name": "HARO", "sector": "Building Material", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "HARO manufactures parquet, design flooring, cork flooring, and laminate flooring." }, 
+
+     { "name": "Wilhelm Brandenburg", "sector": "Food & Consumer Goods", "location": "Hessen, Germany", "revenue": "$100M to $500M", "description": "Wilhelm Brandenburg is an animal slaughtering and processing company." }, 
+
+     { "name": "Linde Hydraulics", "sector": "Industrial Machinery", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Linde Hydraulics is a manufacturer and supplier of hydraulic systems and components." }, 
+
+     { "name": "fischer automotive systems", "sector": "Automotive & Aerospace", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "fischer automotive systems global manufacturer of automotive components." }, 
+
+     { "name": "Dywidag Group", "sector": "Construction", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Dywidag Group is a manufacturer of ground engineering systems and construction materials." }, 
+
+     { "name": "EJOT", "sector": "Industrial Engineering", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "EJOT research and manufactures a wide range of fastening solutions." }, 
+
+     { "name": "Walterscheid", "sector": "Industrial Engineering", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Walterscheid is an industrial engineering company that specializes in driveline and hydraulic systems." }, 
+
+     { "name": "Knipex", "sector": "Manufacturing & Industrial", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Knipex is a manufacturing company that specializes in the production of pliers and other hand tools." }, 
+
+     { "name": "Gotec Group", "sector": "Automotive & Aerospace", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Gotec Group offers plastic parts, aluminum tubes and profiles, and assembly services." }, 
+
+     { "name": "Remmers", "sector": "Building Material", "location": "Lower Saxony, Germany", "revenue": "$100M to $500M", "description": "Remmers manufactures building chemicals, wood paints and varnishes, and industrial coatings." }, 
+
+     { "name": "Läpple Automotive", "sector": "Automotive & Aerospace", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Läpple Automotive provides aluminum spot weldings and other automotive components." }, 
+
+     { "name": "Heel", "sector": "Biotechnology & Healthcare", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Heel is a pharmaceutical company that produces natural medicines." }, 
+
+     { "name": "DMB", "sector": "Building Material", "location": "Schleswig-Holstein, Germany", "revenue": "$100M to $500M", "description": "DMB is a holding company that owns and operates several businesses in the building materials industry." }, 
+
+     { "name": "Hilzinger", "sector": "Furniture", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Hilzinger manufactures and supplies sliding doors, shutter systems, and other building components." }, 
+
+     { "name": "Winterhalter DACH", "sector": "Food Service Equipment", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Winterhalter DACH is a manufacturing company. They provide dishwashing solutions for the catering industry." }, 
+
+     { "name": "Prym", "sector": "Industrial Manufacturing", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Prym specializes in textiles and industrial machinery, offering a wide range of products for sewing, knitting, and crafting." }, 
+
+     { "name": "Roth Industries", "sector": "Energy & Infrastructure", "location": "Hessen, Germany", "revenue": "$100M to $500M", "description": "Roth Industries manufactures building and industrial solutions, including heating, cooling, and water management systems." }, 
+
+     { "name": "Mayer-Kuvert-network", "sector": "Manufacturing & Industrial", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Mayer-Kuvert-network provides envelopes, mailing bags, and other paper products." }, 
+
+     { "name": "Hako Group", "sector": "Industrial Manufacturing", "location": "Schleswig-Holstein, Germany", "revenue": "$100M to $500M", "description": "Hako Group designs, manufactures, and markets floor cleaning machines, outdoor cleaning equipment, and municipal vehicles." }, 
+
+     { "name": "Winkler", "sector": "Automotive & Aerospace", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Winkler manufactures and supplies spare parts for heavy commercial vehicles." }, 
+
+     { "name": "Schmitt + Sohn Aufzüge", "sector": "Industrial Machinery", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Schmitt + Sohn Aufzüge manufactures passenger and freight elevators." }, 
+
+     { "name": "SchwörerHaus KG", "sector": "Construction", "location": "Brandenburg, Germany", "revenue": "$100M to $500M", "description": "SchwörerHaus KG manufactures individual wood and prefabricated houses." }, 
+
+     { "name": "Centrotherm", "sector": "Technology & Engineering", "location": "Saxony, Germany", "revenue": "$100M to $500M", "description": "Centrotherm provides planning, technology, and engineering solutions for the photovoltaic and semiconductor industries." }, 
+
+     { "name": "Elbe Group", "sector": "Manufacturing & Industrial", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Elbe Group focuses on the production of drive solutions for various industries." }, 
+
+     { "name": "Salamander Industrie-Produkte", "sector": "Building Material", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Salamander Industrie-Produkte manufacturers windows & doors." }, 
+
+     { "name": "Albert Ziegler", "sector": "Manufacturing & Industrial", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Albert Ziegler manufactures various kinds of stationary fire pumps and fire fighting vehicles." }, 
+
+     { "name": "REINZ-Dichtungs", "sector": "Manufacturing & Industrial", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "REINZ-Dichtungs designs, develops, manufactures, tests and sells gaskets and sealing systems." }, 
+
+     { "name": "Brückner Maschinenbau", "sector": "Industrial Machinery", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Brückner Maschinenbau offers plastics film designing and manufacturing." }, 
+
+     { "name": "Fricke", "sector": "Agriculture", "location": "Lower Saxony, Germany", "revenue": "$100M to $500M", "description": "Fricke is an agricultural engineering company that sells and services agricultural machinery." }, 
+
+     { "name": "Kermi", "sector": "Building Material", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Kermi offers a wide range of heat pumps, radiators, surface heating/cooling systems, and shower enclosures." }, 
+
+     { "name": "PMG-Powder Metal Group", "sector": "Automotive & Aerospace", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "PMG supplies powder metal components and systems that are used in various automotive applications." }, 
+
+     { "name": "Interpane Glas Industrie", "sector": "Construction", "location": "Lower Saxony, Germany", "revenue": "$100M to $500M", "description": "Interpane Glas Industrie is a manufacturer of flat glass for facades and interiors." }, 
+
+     { "name": "Uzin Utz", "sector": "Chemicals", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Uzin Utz is a manufacturer of detergents, shoe polishes, and other chemical products." }, 
+
+     { "name": "Möllergroup", "sector": "Industrial Manufacturing", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Möllergroup produces modules for the automotive industry." }, 
+
+     { "name": "HanseYachts", "sector": "Leisure & Marine", "location": "Mecklenburg-Vorpommern, Germany", "revenue": "$100M to $500M", "description": "HanseYachts is a German yacht manufacturer headquartered in Greifswald." }, 
+
+     { "name": "Eisenwerk Brühl", "sector": "Automotive & Aerospace", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Eisenwerk Brühl is an Iron Casting Company." }, 
+
+     { "name": "YNCORIS", "sector": "Biotechnology & Healthcare", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "YNCORIS offers plant optimization, process development, and engineering services for the chemical and pharmaceutical industries." }, 
+
+     { "name": "RUD Ketten Rieger & Dietz", "sector": "Industrial Machinery", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "RUD Ketten is a company that manufactures all types of chains and chain systems." }, 
+
+     { "name": "teamtechnik machines and p...", "sector": "Automotive & Aerospace", "location": "Mecklenburg-Vorpommern, Germany", "revenue": "$100M to $500M", "description": "teamtechnik Automation is a leading industrial company that specializes in automation solutions." }, 
+
+     { "name": "Amann Group", "sector": "Textiles", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Amann Group engaged in the manufacturing a wide variety of sewing and embroidery threads." }, 
+
+     { "name": "Dr. Theiss Naturwaren", "sector": "Cosmetics & Health", "location": "Saarland, Germany", "revenue": "$100M to $500M", "description": "Dr. Theiss Naturwaren offers research, manufacturing and distribution of natural cosmetics and health products." }, 
+
+     { "name": "Hermle", "sector": "Industrial Manufacturing", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Hermle manufactures machines for additive manufacturing and other industrial applications." }, 
+
+     { "name": "Hans Kolb Wellpappe", "sector": "Packaging", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Hans Kolb Wellpappe is a packaging company that produces corrugated cardboard." }, 
+
+     { "name": "Gerhardi Kunststofftechnik", "sector": "Automotive & Aerospace", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Gerhardi Kunststofftechnik manufactures products for the automotive industry." }, 
+
+     { "name": "Heinrich von Allwörden", "sector": "Food & Consumer Goods", "location": "Hessen, Germany", "revenue": "$100M to $500M", "description": "Heinrich von Allwörden manufactures and sells bakery products." }, 
+
+     { "name": "JOPP", "sector": "Automotive & Aerospace", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "JOPP is a manufacturer and supplier of mechatronics, drive train components, and interior systems for the automotive industry." }, 
+
+     { "name": "IDT Biologika", "sector": "Biotechnology & Healthcare", "location": "Saxony-Anhalt, Germany", "revenue": "$100M to $500M", "description": "IDT Biologika is providing breakthrough biologics, vaccines, and pharmaceutical products." }, 
+
+     { "name": "Dürkopp Adler", "sector": "Industrial Machinery", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Dürkopp Adler is a machinery manufacturing company that produces industrial sewing machines and welding equipment." }, 
+
+     { "name": "Schmitt + Sohn Elevators", "sector": "Industrial Automation", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Schmitt + Sohn Elevators produce and modernize the lift systems." }, 
+
+     { "name": "KORDEL", "sector": "Agriculture & Construction", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "KORDEL manufactures and supplies agricultural machinery and construction equipment." }, 
+
+     { "name": "Westag", "sector": "Building Material", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Westag is a manufacturer of wood-based products for interior finishing and building construction." }, 
+
+     { "name": "IG Bauerhin", "sector": "Automotive & Aerospace", "location": "Saxony, Germany", "revenue": "$100M to $500M", "description": "IG Bauerhin is a supplier of automotive products and services." }, 
+
+     { "name": "Tadano Europe", "sector": "Industrial Manufacturing", "location": "Rhineland-Palatinate, Germany", "revenue": "$100M to $500M", "description": "Tadano Europe is an industrial manufacturer of lifting equipment." }, 
+
+     { "name": "Stoba", "sector": "Consulting & Machinery", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Stoba specializes in providing customized machinery alongside consulting services." }, 
+
+     { "name": "Lamilux", "sector": "Manufacturing & Plastics", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Lamilux offers product design, plastics, glass roofs, daylight systems, and composite materials." }, 
+
+     { "name": "WeyChem", "sector": "Chemicals", "location": "Hessen, Germany", "revenue": "$100M to $500M", "description": "WeyChem is a supplier of building blocks and custom-made chemicals." }, 
+
+     { "name": "PI Physics Instruments (PI)", "sector": "Industrial Automation", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "PI Physics Instruments (PI) is a manufacturer of nanopositioning technology and piezo systems." }, 
+
+     { "name": "Bender", "sector": "Industrial Manufacturing", "location": "Hessen, Germany", "revenue": "$100M to $500M", "description": "Bender is an electrical safety products manufacturer and provides insulation monitoring, residual current monitoring, and measuring relays." }, 
+
+     { "name": "Leonhard Moll", "sector": "Construction", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Leonhard Moll is a construction company that provides a wide range of services, including building construction, civil engineering, and infrastructure projects." }, 
+
+     { "name": "PNE Group", "sector": "Construction & Energy", "location": "Lower Saxony, Germany", "revenue": "$100M to $500M", "description": "PNE Group is a German wind power pioneer operating on an international level." }, 
+
+     { "name": "MT Aerospace", "sector": "Aerospace", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "MT Aerospace specializes in lightweight constructions for aerospace and other high-tech industries." }, 
+
+     { "name": "Woco Industrietechnik", "sector": "Automotive & Aerospace", "location": "Hessen, Germany", "revenue": "$100M to $500M", "description": "Woco Industrietechnik GmbH develops and manufactures technical rubber and plastic components for the automotive industry." }, 
+
+     { "name": "Nikon SLM Solutions", "sector": "Industrial Manufacturing", "location": "Schleswig-Holstein, Germany", "revenue": "$100M to $500M", "description": "Nikon SLM Solutions offers integrated metal additive manufacturing solutions." }, 
+
+     { "name": "Brasseler.", "sector": "Manufacturing & Medical", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Brasseler manufactures medical technology products, including dental instruments and surgical tools." }, 
+
+     { "name": "Hennecke", "sector": "Industrial Machinery", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Hennecke designs and manufactures polyurethane processing machines and systems." }, 
+
+     { "name": "Prim Medical", "sector": "Health Care", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Prim Medical is a manufacturing company that develops and produces medical devices and healthcare products." }, 
+
+     { "name": "WEISS automotive", "sector": "Automotive & Aerospace", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "WEISS automotive is a leading system supplier to the automotive industry." }, 
+
+     { "name": "Flachglas Group", "sector": "Logistics & Manufacturing", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Flachglas Group provides facade and interior glass for buildings." }, 
+
+     { "name": "Schill+Seilacher", "sector": "Chemicals", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Schill+Seilacher is a chemicals manufacturing company that produces specialty chemicals for various industries." }, 
+
+     { "name": "KNF", "sector": "Industrial Engineering", "location": "Hamburg, Germany", "revenue": "$100M to $500M", "description": "KNF designs, produces, and distributes diaphragm pumps and systems." }, 
+
+     { "name": "ERCO", "sector": "Electronics & Lighting", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "ERCO is a light factory that specializes in architectural lighting solutions." }, 
+
+     { "name": "Beinbauer Group", "sector": "Commercial Machinery", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Beinbauer has been a reliable partner for OEMs of the commercial vehicle industry." }, 
+
+     { "name": "Dr Paul Lohmann", "sector": "Chemicals", "location": "Thuringia, Germany", "revenue": "$100M to $500M", "description": "Dr Paul Lohmann specializes in manufacturing mineral salts for various applications." }, 
+
+     { "name": "Max Frank", "sector": "Building Material", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Max Frank is a construction company, that designs, manufactures, and supplies building materials and systems." }, 
+
+     { "name": "Lehmann & Voss & Co", "sector": "Chemicals", "location": "Hamburg, Germany", "revenue": "$100M to $500M", "description": "Lehmann & Voss & Co is a chemical firm that manufactures and distributes chemical products." }, 
+
+     { "name": "Reich", "sector": "Automotive & Aerospace", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Reich is a manufacturer of parts like gears, steering, ball joints, and other components for the automotive industry." }, 
+
+     { "name": "EHL", "sector": "Building Material", "location": "Rhineland-Palatinate, Germany", "revenue": "$100M to $500M", "description": "EHL provides concrete design products for landscaping, gardens, and public spaces." }, 
+
+     { "name": "Raumedic AG", "sector": "Biotechnology & Healthcare", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "RAUMEDIC AG development Partner and Manufacturer for medical and pharmaceutical industries." }, 
+
+     { "name": "Boge", "sector": "Industrial Engineering", "location": "North Rhine-Westphalia, Germany", "revenue": "$100M to $500M", "description": "Boge is an industrial engineering company that specializes in compressed air technology." }, 
+
+     { "name": "First Sensor", "sector": "Electronics", "location": "Berlin, Germany", "revenue": "$100M to $500M", "description": "First Sensor is one of the world's leading suppliers in the field of sensor technology." }, 
+
+     { "name": "Testo Industrial Services", "sector": "Consulting & Industrial", "location": "Baden-Wurttemberg, Germany", "revenue": "$100M to $500M", "description": "Testo Industrial Services providers of measurement technology and services." }, 
+
+     { "name": "Suffel Fördertechnik", "sector": "Logistics & Machinery", "location": "Bavaria, Germany", "revenue": "$100M to $500M", "description": "Suffel Fördertechnik is a forklift, and warehouse technology specialist." }, 
+
+     { "name": "Binderholz", "sector": "Manufacturing & Paper", "location": "Tyrol, Austria", "revenue": "$100M to $500M", "description": "Binderholz is an European company for solid wood solutions." }, 
+
+     { "name": "Stölzle", "sector": "Manufacturing & Packaging", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "Stölzle specializes in the production of high-end glass packaging." }, 
+
+     { "name": "HS Timber Group", "sector": "Industrial Manufacturing", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "HS Timber Group is a wood processing company that offers timber products." }, 
+
+     { "name": "Wolford", "sector": "Apparel & Fashion", "location": "Vorarlberg, Austria", "revenue": "$100M to $500M", "description": "Wolford AG is engaged in the production and marketing of legwear, ready-to-wear, and lingerie." }, 
+
+     { "name": "Hagleitner", "sector": "Chemical Cleaning Products", "location": "Salzburg, Austria", "revenue": "$100M to $500M", "description": "Hagleitner manufactures and supplies restroom hygiene, laundry, kitchen, and building cleaning products." }, 
+
+     { "name": "Scheuch", "sector": "Environmental Engineering", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Scheuch provides the production of air and environmental technology systems." }, 
+
+     { "name": "GoodMills Group", "sector": "Food & Beverage", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "GoodMills Romania is a food manufacturing company that specializes in milling and bakery products." }, 
+
+     { "name": "Aspöck Systems", "sector": "Industrial Lighting", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Aspöck Systems manufactures pre-fabricated lighting systems for trucks, trailers, and agricultural machinery." }, 
+
+     { "name": "Tupack", "sector": "Cosmetics & Health Care", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "Tupack is a manufacturing company that produces plastic packaging for the cosmetics and pharmaceutical industries." }, 
+
+     { "name": "Starlim", "sector": "Industrial Engineering", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Starlim is a full-service provider that offers product development, tool manufacturing, and serial production of silicone parts." }, 
+
+     { "name": "Meusburger Georg GmbH & Co KG", "sector": "Industrial Engineering", "location": "Vorarlberg, Austria", "revenue": "$100M to $500M", "description": "Meusburger is the market leader in the field of high-precision standard parts for mold and die making." }, 
+
+     { "name": "Schwarzmüller", "sector": "Automotive & Commercial Vehicles", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Schwarzmüller is an automotive manufacturer that focuses on commercial vehicles." }, 
+
+     { "name": "Pollmann International", "sector": "Automotive & Manufacturing", "location": "Lower Austria, Austria", "revenue": "$100M to $500M", "description": "Pollmann International develops and produces metal-plastic composite components for the automotive industry." }, 
+
+     { "name": "Knill Gruppe", "sector": "Battery & Energy", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "Knill Gruppe is a manufacturer of power transmission and distribution systems." }, 
+
+     { "name": "Pöttinger", "sector": "Agriculture & Farming", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Pöttinger manufactures and markets soil cultivation, seeding, and harvesting machinery." }, 
+
+     { "name": "Vie de France", "sector": "Food & Beverage", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "Vie de France is a food production company that specializes in French bakery products." }, 
+
+     { "name": "Christof Industries", "sector": "Energy & Industrial Engineering", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "Christof Industries is a group of companies that focuses on industrial plant construction, energy technology, and environmental technology." }, 
+
+     { "name": "ATB Austria Antriebstechnik", "sector": "Electronics & Home Appliances", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "ATB Austria Antriebstechnik is a manufacturer and supplier of electric motors and drives." }, 
+
+     { "name": "TroGroup", "sector": "Commercial & Industrial", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "TroGroup is a group of companies that specializes in laser marking, engraving, and cutting machines." }, 
+
+     { "name": "HIRSCH Servo Group", "sector": "Machinery Manufacturing", "location": "Carinthia, Austria", "revenue": "$100M to $500M", "description": "HIRSCH Servo Group is specializing in the manufacturing of expanded polystyrene (EPS) products and machinery." }, 
+
+     { "name": "ADA furniture works", "sector": "Building Material & Furniture", "location": "Lower Austria, Austria", "revenue": "$100M to $500M", "description": "ADA Furniture Works is a furniture and home furnishing company that produces upholstered furniture." }, 
+
+     { "name": "cafe+co", "sector": "Machinery Manufacturing", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "cafe+co produces and sells snacks, hot, and cold drinks through vending machines." }, 
+
+     { "name": "Neuman Aluminum", "sector": "Industrial Manufacturing", "location": "Lower Austria, Austria", "revenue": "$100M to $500M", "description": "Neuman Aluminum is a manufacturing firm that offers aluminum products and solutions." }, 
+
+     { "name": "Trodat", "sector": "Machinery Manufacturing", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Trodat manufacturers self-inking stamps, rubber stamps, and engraving machines." }, 
+
+     { "name": "Legero United", "sector": "Fashion & Manufacturing", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "We are an owner-managed, independent company with two brands, Legero and Think." }, 
+
+     { "name": "WIG Wiedersdorfer", "sector": "Industrial Engineering", "location": "Carinthia, Austria", "revenue": "$100M to $500M", "description": "WIG Wiedersdorfer specializes in construction infrastructure and industrial plant construction." }, 
+
+     { "name": "VTU Group", "sector": "Industrial Automation", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "VTU Group assists with process engineering, 3D layouts, and plant design for various industries." }, 
+
+     { "name": "Polaris", "sector": "Apparel & Fashion", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "Polaris specializes in manufacturing, designing, and distributing fashion apparel." }, 
+
+     { "name": "IBG Group", "sector": "Construction & Manufacturing", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "IBG Group focuses on the manufacturing and design of construction materials." }, 
+
+     { "name": "Opel Wien", "sector": "Automotive & Manufacturing", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "Opel Wien is a privately held company that designs, builds, and sells vehicles." }, 
+
+     { "name": "Trebacher Industrie AG", "sector": "Chemical & Industrial Minerals", "location": "Carinthia, Austria", "revenue": "$100M to $500M", "description": "Trebacher Industries is a chemical and metallurgy company that produces ferroalloys and special alloys." }, 
+
+     { "name": "EREMA", "sector": "Manufacturing & Recycling", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "EREMA specializes in the production of plastics recycling machines and systems." }, 
+
+     { "name": "Frauscher Sensor Technology", "sector": "Computer & Information Technology", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Frauscher Sensor Technology is an Austria-based provider of railway detection systems." }, 
+
+     { "name": "Komptech GmbH", "sector": "Machinery Manufacturing", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "Komptech is a leading international technology supplier of machinery and systems for mechanical and biological waste treatment." }, 
+
+     { "name": "EMPL Fahrzeugwerk", "sector": "Automotive & CAD", "location": "Tyrol, Austria", "revenue": "$100M to $500M", "description": "EMPL Fahrzeugwerk offers to design and manufacture fire fighting vehicles, commercial vehicles, and special purpose vehicles." }, 
+
+     { "name": "TEAM 7", "sector": "Furniture & Interior Design", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "TEAM 7 is a manufacturing company that produces a wide range of solid wood furniture." }, 
+
+     { "name": "Thoni", "sector": "Automotive & Energy", "location": "Tyrol, Austria", "revenue": "$100M to $500M", "description": "Thoni is a manufacturing and engineering company that specializes in the production of components for the automotive and energy industries." }, 
+
+     { "name": "HTI High Tech Industries AG", "sector": "Chemical & Chemical Engineering", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "HTI High Tech Industries AG is a technology group specializing in the development and production of high-tech materials and components." }, 
+
+     { "name": "Künz", "sector": "Industrial Machinery", "location": "Vorarlberg, Austria", "revenue": "$100M to $500M", "description": "Künz manufactures container handling, wood, port, RMG, and stacking cranes." }, 
+
+     { "name": "Kotanyi", "sector": "Consumer Goods & Food", "location": "Lower Austria, Austria", "revenue": "$100M to $500M", "description": "Kotanyi produces food ingredients and provides spices, herbs, and seasonings." }, 
+
+     { "name": "Geislinger", "sector": "Automotive & Machinery", "location": "Salzburg, Austria", "revenue": "$100M to $500M", "description": "Geislinger manufactures and supplies steel spring couplings, dampers, and composite shafts for various industries." }, 
+
+     { "name": "EREMA Group", "sector": "Manufacturing & Plastics", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "EREMA Group provides plastics recycling solutions services." }, 
+
+     { "name": "EMCO", "sector": "Industrial Manufacturing", "location": "Tyrol, Austria", "revenue": "$100M to $500M", "description": "EMCO is a manufacturer of lathes and milling machines." }, 
+
+     { "name": "SKB Group", "sector": "Industrial Engineering", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "SKB Group is an industrial engineering company that specializes in the design and construction of industrial plants." }, 
+
+     { "name": "Bernegger", "sector": "Consulting & Environmental", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Bernegger provides construction, environmental, and waste management services." }, 
+
+     { "name": "Boehlent", "sector": "Industrial Engineering", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "Boehlent is a tool manufacturer that specializes in hard metals and cutting tools." }, 
+
+     { "name": "Swarovski Optik", "sector": "Consumer Goods & Manufacturing", "location": "Tyrol, Austria", "revenue": "$100M to $500M", "description": "Swarovski Optik is engaged in manufacturing of long range optical instruments such as binoculars, spotting scopes, and rifle scopes." }, 
+
+     { "name": "Schreiber & Rupp", "sector": "Food Delivery & Food Processing", "location": "Vorarlberg, Austria", "revenue": "$100M to $500M", "description": "Schreiber & Rupp specializes in the production and distribution of dairy products." }, 
+
+     { "name": "NOM", "sector": "Dairy & Food & Beverage", "location": "Lower Austria, Austria", "revenue": "$100M to $500M", "description": "NOM is a dairy products manufacturer." }, 
+
+     { "name": "Greiner Perfoam", "sector": "Automotive & Manufacturing", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Greiner Perfoam develops and produces automotive parts and components." }, 
+
+     { "name": "Alcar Holding", "sector": "Automotive & Industrial", "location": "Lower Austria, Austria", "revenue": "$100M to $500M", "description": "Alcar Holding is a trading group that manufactures steel and alloy wheels." }, 
+
+     { "name": "ELIN Motoren", "sector": "Energy & Industrial", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "ELIN Motoren provides tailor-made wind turbines, generators, and electric motors." }, 
+
+     { "name": "S. Spitz", "sector": "Consumer Goods & Food", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "S. Spitz GmbH manufactures food and beverages, including fruit juices, soft drinks, and alcoholic beverages." }, 
+
+     { "name": "Hawle", "sector": "Manufacturing & Mechanics", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Hawle provides water supply products, training, and services." }, 
+
+     { "name": "Ottakringer Getränke", "sector": "Craft Beer & Food & Beverage", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "Ottakringer Getränke is a food & beverage manufacturer that produces beer, non-alcoholic beverages, and mineral water." }, 
+
+     { "name": "Salinen Austria", "sector": "Chemical & Manufacturing", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Salinen Austria is a salt producer. They offer table salt, industrial salt, and de-icing salt." }, 
+
+     { "name": "SMC Austria", "sector": "B2B & Industrial Engineering", "location": "Lower Austria, Austria", "revenue": "$100M to $500M", "description": "SMC Austria designs and develops control, actuators, and other pneumatic components." }, 
+
+     { "name": "COPA-DATA", "sector": "Automotive & Cloud Data", "location": "Salzburg, Austria", "revenue": "$100M to $500M", "description": "#1 Industrial Control System | Industrial & Energy Automation. COPA-DATA, as independent manufacturer of software for industrial automation and energy solutions." }, 
+
+     { "name": "Amann Girrbach", "sector": "CAD & Dental", "location": "Vorarlberg, Austria", "revenue": "$100M to $500M", "description": "Amann Girrbach is a company that specializes in technical ceramics, dental CAD/CAM systems, and dental materials." }, 
+
+     { "name": "Melecs", "sector": "Electronics & Industrial", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "Melecs is an electronic components manufacturing company that produces electronic modules and systems." }, 
+
+     { "name": "BOC Group", "sector": "Business Information Systems", "location": "Vienna, Austria", "revenue": "$100M to $500M", "description": "BOC Group is a manufacturer of software tools." }, 
+
+     { "name": "Bauer", "sector": "Agriculture & Environment", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "Bauer is the designer and manufacturer of agricultural machinery." }, 
+
+     { "name": "Zeta Biopharma", "sector": "Biotechnology", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "Zeta specializes in the development and supply of biopharmaceutical facilities." }, 
+
+     { "name": "AustroCol Hallein", "sector": "Chemical & Manufacturing", "location": "Salzburg, Austria", "revenue": "$100M to $500M", "description": "AustroCol Hallein manufactures and supplies a wide range of adhesives, sealants, and coatings." }, 
+
+     { "name": "Binder+Co", "sector": "Machinery Manufacturing", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "Binder+Co is a machinery company that manufactures and supplies processing machines and environmental technology." }, 
+
+     { "name": "Getzner Werkstoffe", "sector": "Chemical Engineering", "location": "Vorarlberg, Austria", "revenue": "$100M to $500M", "description": "Getzner Werkstoffe serves rail, construction, and industry sectors with vibration isolation solutions." }, 
+
+     { "name": "Sattler", "sector": "Manufacturing & Project Management", "location": "Styria, Austria", "revenue": "$100M to $500M", "description": "Sattler is a textile manufacturer that provides project management, design, and production services." }, 
+
+     { "name": "SalzburgMilch", "sector": "Food & Beverage & Manufacturing", "location": "Salzburg, Austria", "revenue": "$100M to $500M", "description": "SalzburgMilch is a dairy producer offering premium milk products." }, 
+
+     { "name": "SML Maschinenegesellschaft", "sector": "Industrial Manufacturing", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "SML Maschinenegesellschaft is a high-tech manufacturer of extrusion lines for plastic films." }, 
+
+     { "name": "CMS Electronics", "sector": "Consumer Electronics & Electrical Engineering", "location": "Carinthia, Austria", "revenue": "$100M to $500M", "description": "CMS Electronics is an electrical manufacturing company that produces electronic components and systems." }, 
+
+     { "name": "CEMTEC", "sector": "Industrial Machinery", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "CEMTEC is an industrial machinery company that specializes in grinding and drying technologies." }, 
+
+     { "name": "Leube", "sector": "Building Material & Construction", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Leube is a manufacturing company that specializes in the production of cement, concrete, and other building materials." }, 
+
+     { "name": "Steinbacher", "sector": "Building Material & Manufacturing", "location": "Tyrol, Austria", "revenue": "$100M to $500M", "description": "Steinbacher is a producer of insulation materials for various applications." }, 
+
+     { "name": "Laakirchen Papier", "sector": "Forestry & Manufacturing", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "Laakirchen Papier is a printing and publication paper manufacturer." }, 
+
+     { "name": "WP Suspension", "sector": "Automotive & Manufacturing", "location": "Upper Austria, Austria", "revenue": "$100M to $500M", "description": "WP Suspension is a car company that manufactures and supplies suspension components for motorcycles." }, 
+
+     { "name": "KPI", "sector": "Construction & Manufacturing", "location": "Avignon, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "KPI is the French manufacturer of high performance." }, 
+
+     { "name": "FARFISA", "sector": "Health Care & Manufacturing", "location": "Tournon-sur-rhone, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "One of the world's leading subcontractors in the industry." }, 
+
+     { "name": "Thusone", "sector": "Consumer Electronics & Food", "location": "Levallois-perret, Ile-de-France, France", "revenue": "$100M to $500M", "description": "The new Thusane brand positioning theme, Wings for the future." }, 
+
+     { "name": "Biscuit International", "sector": "Bakery & Food and Beverage", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Biscuit International is the European manufacturer of private label biscuits." }, 
+
+     { "name": "Saverglass", "sector": "Food and Beverage & Industrial", "location": "Picardie, France", "revenue": "$100M to $500M", "description": "Saverglass is a producer of bottles and carafes for the wine and spirits industry." }, 
+
+     { "name": "Effiage", "sector": "Facilities Support Services", "location": "Boulogne-billancourt, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Effiage is an industrial service company that carries out work in safety, quality and environmental protection." }, 
+
+     { "name": "Atlantic Group", "sector": "Consumer Electronics & Heating", "location": "La Roche-sur-yon, Pays de la Loire, France", "revenue": "$100M to $500M", "description": "Heating, hot water, air conditioning, and air treatment." }, 
+
+     { "name": "AstestFlash", "sector": "Manufacturing", "location": "Neuilly-plaisance, Ile-de-France, France", "revenue": "$100M to $500M", "description": "AstestFlash is an international Electronic Manufacturing Services (EMS) provider." }, 
+
+     { "name": "Sperian Protection", "sector": "Industrial Engineering & Manufacturing", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Sperian Protection manufactures personal protective equipment." }, 
+
+     { "name": "Automotive, Manufacturing", "sector": "Automotive & Manufacturing", "location": "Villepinte, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Designs and manufactures automotive body parts." }, 
+
+     { "name": "Teva Sante", "sector": "Health Care & Manufacturing", "location": "La Defense, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Teva Sante is a pharmaceutical manufacturing company that produces and distributes generic drugs." }, 
+
+     { "name": "Nexteam Group", "sector": "Aerospace & Machinery", "location": "Marmande, France", "revenue": "$100M to $500M", "description": "Nexteam Group manufactures high precision components for the aerospace industry." }, 
+
+     { "name": "Naturex", "sector": "Food and Beverage & Manufacturing", "location": "Avignon, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "Naturex specializes in the production of natural extracts." }, 
+
+     { "name": "Altub Group", "sector": "Manufacturing & Packaging", "location": "Boulogne-billancourt, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Altub Group is in flexible aluminum tubing for the packaging industry." }, 
+
+     { "name": "Exail", "sector": "Manufacturing & Navigation", "location": "Saint-germain-en-laye, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Exail is a technology company specializing in robotics, navigation, and autonomous systems." }, 
+
+     { "name": "Unither Pharmaceuticals", "sector": "Biotechnology & Manufacturing", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Unither Pharmaceuticals is a French manufacturer of dosage forms." }, 
+
+     { "name": "Pasteur Institute", "sector": "Biotechnology & Medical Research", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "The Pasteur Institute is a biomedical research institute." }, 
+
+     { "name": "Novasep", "sector": "Biotechnology & Chemical", "location": "Lyon, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Novasep is a service provider in the field of molecule production and purification." }, 
+
+     { "name": "Exat Technologies", "sector": "Industrial & Industrial Engineering", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Exat Technologies specializes in advanced technologies in the fields of robotics, automation, and artificial intelligence." }, 
+
+     { "name": "Photonis", "sector": "Electronics & Manufacturing", "location": "Mérignac, Aquitaine, France", "revenue": "$100M to $500M", "description": "Photonis is a manufacturer of electro-optical detection and imaging solutions." }, 
+
+     { "name": "ANSES", "sector": "Agriculture & Association", "location": "Maisons-alfort, Ile-de-France, France", "revenue": "$100M to $500M", "description": "ANSES is a scientific body active in the fields of food, environmental, and occupational health." }, 
+
+     { "name": "Givenchy SA", "sector": "Consumer Goods & Fashion", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Givenchy SA is designs, manufactures, and sells clothing, accessories, and perfumes." }, 
+
+     { "name": "Ethypharm", "sector": "Health Care & Life Science", "location": "Franceau, Bourgogne, France", "revenue": "$100M to $500M", "description": "Ethypharm designs, formulates, develops, manufactures, and markets innovative pharmaceutical products." }, 
+
+     { "name": "Lumbird", "sector": "Electronics & Industrial", "location": "Lannion, Bretagne, France", "revenue": "$100M to $500M", "description": "Lumbird is designs, manufactures and markets high-performance electronic components." }, 
+
+     { "name": "Rians", "sector": "Food Delivery & Food Processing", "location": "Rians, Centre, France", "revenue": "$100M to $500M", "description": "Rians is a food processing company that produces a wide range of dairy products." }, 
+
+     { "name": "Nuvia", "sector": "Industrial & Manufacturing", "location": "Rueil-malmaison, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Nuvia offers services and technology for supporting the nuclear industry." }, 
+
+     { "name": "Cenexi", "sector": "Biotechnology & Consumer Goods", "location": "Fontenay-sous-bois, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Cenexi is a French manufacturer of sterile and non-sterile pharmaceutical products." }, 
+
+     { "name": "Dalkia Froid Solutions", "sector": "Industrial Manufacturing", "location": "Verrières, Auvergne, France", "revenue": "$100M to $500M", "description": "Dalkia Froid Solutions operates in the fields of commercial and industrial refrigeration." }, 
+
+     { "name": "ALL. ALL Circuits", "sector": "Automotive & Electronics", "location": "Meung-sur-loire, Centre, France", "revenue": "$100M to $500M", "description": "ALL Circuits operate as a manufacturer of automotive electronics." }, 
+
+     { "name": "Elivie", "sector": "Health Care & Medical", "location": "Lyon, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Elivie is the healthcare provider in France. Created in 2016 from the merger of two major players in home care." }, 
+
+     { "name": "Boccard", "sector": "Construction & Manufacturing", "location": "Villeurbanne, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Boccard is an industrial engineering company that specializes in process solutions for various industries." }, 
+
+     { "name": "CIRAD", "sector": "Agriculture & Farming", "location": "Montpellier, Languedoc-Roussillon, France", "revenue": "$100M to $500M", "description": "CIRAD is a French agricultural research center working for the sustainable development of tropical and Mediterranean regions." }, 
+
+     { "name": "DRT", "sector": "Agriculture & Biotechnology", "location": "Dax, Aquitaine, France", "revenue": "$100M to $500M", "description": "Since 1932, DRT has specialized in the development of rosin and turpentine chemistry." }, 
+
+     { "name": "Beneteau", "sector": "Manufacturing & Marine", "location": "Dompierre-sur-yon, Pays de la Loire, France", "revenue": "$100M to $500M", "description": "Beneteau is a manufacturing company that specializes in the production of sailing and motor yachts." }, 
+
+     { "name": "CARSO Group", "sector": "Agriculture & AgTech", "location": "Vénissieux, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "CARSO Group provides environmental and agri-food analysis services." }, 
+
+     { "name": "Arkopharma", "sector": "Biotechnology & Pharmaceutical", "location": "Carros, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "Arkopharma is a pharmaceutical company." }, 
+
+     { "name": "Vernet", "sector": "Manufacturing", "location": "Ollainville, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Vernet is a copper-wax thermostatic elements manufacturer." }, 
+
+     { "name": "Eolane", "sector": "Electronics & Manufacturing", "location": "La France, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Eolane provides professional industrial electronic services." }, 
+
+     { "name": "Urgo laboratories", "sector": "Health Care & Manufacturing", "location": "Chenôve, Bourgogne, France", "revenue": "$100M to $500M", "description": "Urgo laboratories is a pharmaceutical firm that specializes in wound care and medical devices." }, 
+
+     { "name": "Cordon Group", "sector": "Electronics & Manufacturing", "location": "Dinan, Bretagne, France", "revenue": "$100M to $500M", "description": "Cordon Group is a technology company that provides repair and refurbishment services for electronic devices." }, 
+
+     { "name": "Chryso", "sector": "Chemical & Manufacturing", "location": "Issy-les-moulineaux, Ile-de-France, France", "revenue": "$100M to $500M", "description": "CHRYSO SA is a international producer of additives and admixtures for cement and concrete." }, 
+
+     { "name": "AD industries", "sector": "Aerospace & Industrial", "location": "Brive-la-gaillarde, Limousin, France", "revenue": "$100M to $500M", "description": "AD industries provides mechanical, hydraulic, and electrical components for the aerospace industry." }, 
+
+     { "name": "IGN", "sector": "Environmental Engineering", "location": "Saint-mandé, Ile-de-France, France", "revenue": "$100M to $500M", "description": "IGN provides forest inventory solutions, mapping and other related services." }, 
+
+     { "name": "Clauger", "sector": "Heating, Ventilation, and Air Conditioning", "location": "Brignais, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Clauger is an HVAC firm that specializes in industrial refrigeration, air conditioning, and heat recovery systems." }, 
+
+     { "name": "Lambertet", "sector": "Automotive & Manufacturing", "location": "Saint-cyr-sur-menthon, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Lambertet is a automotive industry firm that specializes in the production of trailers and semi-trailers." }, 
+
+     { "name": "CGR", "sector": "Industrial & Industrial Manufacturing", "location": "Sevran, Ile-de-France, France", "revenue": "$100M to $500M", "description": "CGR manufactures mechanical and mechatronic components for various industries." }, 
+
+     { "name": "St Michel", "sector": "Bakery & Confectionery", "location": "Contres, Centre, France", "revenue": "$100M to $500M", "description": "St Michel is a manufacturer and seller of biscuits, madeleines, and other pastries." }, 
+
+     { "name": "HEF Groupe", "sector": "Advanced Materials & Chemical", "location": "Bouthéon, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "HEF Group is an engineering firm specializing in surface treatment and tribology." }, 
+
+     { "name": "Poclain Hydraulics", "sector": "Industrial & Industrial Engineering", "location": "Verberie, Picardie, France", "revenue": "$100M to $500M", "description": "Poclain Hydraulics designs, manufactures, and sales hydraulic components and systems." }, 
+
+     { "name": "Haulotte", "sector": "Manufacturing", "location": "L'horme, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Haulotte is a world-class manufacturer and supplier for people and material lifting equipment." }, 
+
+     { "name": "Hopital Foch", "sector": "Health Care & Hospital", "location": "Suresnes, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Hopital Foch provides neurosurgery and medical services." }, 
+
+     { "name": "JOUBERT Group", "sector": "Automotive & Industrial", "location": "Ambert, Auvergne, France", "revenue": "$100M to $500M", "description": "JOUBERT Group designs and manufactures textile products for the automotive industry." }, 
+
+     { "name": "Groupe Rossignol", "sector": "Fashion & Manufacturing", "location": "Saint-jean-de-moirans, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Groupe Rossignol manufactures winter clothing and equipment." }, 
+
+     { "name": "Exacompta", "sector": "Industrial Engineering & Manufacturing", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Exacompta is a manufacturing company for paper and paper products." }, 
+
+     { "name": "Fournier Group", "sector": "Furniture & Home Improvement", "location": "Thônes, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Fournier Group is a home improvement firm that supplies kitchens, bathrooms, and storage solutions." }, 
+
+     { "name": "ACTIA Group", "sector": "Electronics & Manufacturing", "location": "Toulouse, Midi-Pyrenees, France", "revenue": "$100M to $500M", "description": "ACTIA Group specializes in the design, manufacture, and diagnostic of electronic systems for vehicles." }, 
+
+     { "name": "F2I Industry", "sector": "Lighting & Machinery Manufacturing", "location": "Bourgogne-franche-comte, France", "revenue": "$100M to $500M", "description": "F2I Industry is a machinery manufacturing company that produces industrial lighting fixtures." }, 
+
+     { "name": "Omerin", "sector": "Electronics & Industrial", "location": "Ambert, Auvergne, France", "revenue": "$100M to $500M", "description": "Omerin is an industrial company that provides electrical wires and cables." }, 
+
+     { "name": "ESI Group", "sector": "Analytics & Environmental", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "ESI Group, innovator in Virtual Prototyping software, helps industrial manufacturers to virtually test their products." }, 
+
+     { "name": "Siniat Export", "sector": "Construction & Industrial", "location": "Avignon, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "Siniat Export is a major manufacturer of interior and exterior drywall systems." }, 
+
+     { "name": "Worldgrid", "sector": "Consulting & Industrial", "location": "Meylan, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Worldgrid provides consulting and engineering services to the energy industry." }, 
+
+     { "name": "Delta Plus Group SA", "sector": "Consumer Goods & Industrial", "location": "Apt, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "Delta Plus Group SA is a France-based company." }, 
+
+     { "name": "Groupe Doux", "sector": "Food and Beverage", "location": "Chateaulin, Bretagne, France", "revenue": "$100M to $500M", "description": "Groupe Doux is an agri-food company that produces poultry products." }, 
+
+     { "name": "SVR Jean Roze", "sector": "Food and Beverage", "location": "Vitre, Bretagne, France", "revenue": "$100M to $500M", "description": "SVR Jean Roze is a food processing and trading company." }, 
+
+     { "name": "Sensient Beauty", "sector": "Cosmetics & Manufacturing", "location": "Saint-ouen-l'aumone, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Sensient Cosmetic Technologies provides innovative solutions for the beauty industry." }, 
+
+     { "name": "Precisa SA", "sector": "Industrial Automation", "location": "Privas, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Precisa SA provides weighing instruments and systems for various industries." }, 
+
+     { "name": "Center Hospitalier de Troyes", "sector": "Health Care & Hospital", "location": "Troyes, Champagne-Ardenne, France", "revenue": "$100M to $500M", "description": "Center Hospitalier de Troyes offers medical care." }, 
+
+     { "name": "Lafuma SA", "sector": "Leisure & Manufacturing", "location": "Annecy, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Lafuma SA is a French-based company that specializes in outdoor equipment and apparel." }, 
+
+     { "name": "Groupe Grimaud La Corbiere", "sector": "Biopharma & Commercial", "location": "Roussau, Pays de la Loire, France", "revenue": "$100M to $500M", "description": "Groupe Grimaud La Corbiere is a leading company that develops, produces, and distributes animal genetics." }, 
+
+     { "name": "Ford", "sector": "Automotive & Commercial Vehicles", "location": "Nanterre, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Ford is a motor company that provides vehicles and technology services." }, 
+
+     { "name": "Forsee Power", "sector": "Battery & Electrical Distribution", "location": "Ivry-sur-seine, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Forsee Power designs and manufactures smart battery systems for electric vehicles." }, 
+
+     { "name": "Valneva", "sector": "Biotechnology & Health Care", "location": "Saint-herblain, Pays de la Loire, France", "revenue": "$100M to $500M", "description": "Valneva develops vaccines and antibodies for infectious diseases." }, 
+
+     { "name": "Acteon Group", "sector": "Health Care & Manufacturing", "location": "Mérignac, Aquitaine, France", "revenue": "$100M to $500M", "description": "Acteon Group designs, manufactures, and sells dental and medical equipment." }, 
+
+     { "name": "B. Braun Medical", "sector": "Health Care & Manufacturing", "location": "Montmorency, Ile-de-France, France", "revenue": "$100M to $500M", "description": "B. Braun Medical is a healthcare provider in France." }, 
+
+     { "name": "Posteria", "sector": "Manufacturing & Packaging", "location": "Chernil, Pays de la Loire, France", "revenue": "$100M to $500M", "description": "Posteria is designs and manufactures paper and cardboard packaging." }, 
+
+     { "name": "L'Oreal Paris", "sector": "Beauty & Consumer Goods", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "L'Oreal Paris is a French personal care firm that manufactures and distributes cosmetics." }, 
+
+     { "name": "Laboratoires Expanscience", "sector": "Biotechnology & Health Care", "location": "La Defense, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Laboratoires Expanscience is an independent pharmaceutical company." }, 
+
+     { "name": "Seppic", "sector": "Beauty & Cosmetics & Manufacturing", "location": "La Garenne-colombes, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Seppic develops, manufactures, and markets ingredients for the cosmetic, pharmaceutical, and nutrition industries." }, 
+
+     { "name": "Lynnred", "sector": "B2B & Electronics & Industrial", "location": "Veurey-voroize, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Lynnred manufactures infrared detectors for the aerospace and defense industries." }, 
+
+     { "name": "Adivini", "sector": "Food and Beverage & Manufacturing", "location": "Clermont-therault, Languedoc-Roussillon, France", "revenue": "$100M to $500M", "description": "AdVini specializes in producing, growing, and trading high-quality wines." }, 
+
+     { "name": "Axon Cable", "sector": "Electronics & Manufacturing", "location": "Montmirail, Champagne-Ardenne, France", "revenue": "$100M to $500M", "description": "Axon Cable is a worldwide leader in specialist cables and interconnect solutions." }, 
+
+     { "name": "Vignal Group", "sector": "Lighting & Manufacturing", "location": "Lyon, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Vignal Group designs and manufactures lighting and signaling products for commercial vehicles." }, 
+
+     { "name": "Elitech Group", "sector": "Biotechnology & Health Care", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "The ELITechGroup is a privately held group of worldwide manufacturers and distributors of in vitro diagnostic equipment and reagents." }, 
+
+     { "name": "Nidec", "sector": "Industrial Automation & Manufacturing", "location": "Roche-la-molière, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Nidec company is a design, manufacture and install reliable solutions for automation." }, 
+
+     { "name": "Trenois Descamps", "sector": "Building Material & Industrial", "location": "Wosquehal, Nord-Pas-de-Calais, France", "revenue": "$100M to $500M", "description": "Trenois Descamps offers hardware products such as tools, fasteners, and building materials." }, 
+
+     { "name": "Stradal", "sector": "Building Material & Civil Engineering", "location": "Cergy-pontois, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Stradal manufactures, delivers, and solves customer problems related to concrete products." }, 
+
+     { "name": "Materne", "sector": "Food and Beverage & Food", "location": "Boué, Picardie, France", "revenue": "$100M to $500M", "description": "Materne industries produces fillings intended for yogurt and other food products." }, 
+
+     { "name": "FRANCIAFLEX", "sector": "Industrial & Manufacturing", "location": "Chécy, Centre, France", "revenue": "$100M to $500M", "description": "FRANCIAFLEX offers blinds, shutters, doors, and windows." }, 
+
+     { "name": "TEREVA", "sector": "Chemical Engineering & Building Material", "location": "Bourg-en-bresse, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Tereva offers a professional offer in climatic engineering, sanitary, plumbing, heating, and electricity." }, 
+
+     { "name": "Peters Surgical", "sector": "Manufacturing & Medical", "location": "Bobigny, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Peters Surgical develops, manufactures and distributes surgical sutures and medical devices." }, 
+
+     { "name": "Naturalia France", "sector": "Biotechnology", "location": "Clichy, Ile-de-France, France", "revenue": "$100M to $500M", "description": "A chain of more than 20 stores across Paris, and 8 in Ile-de-France. Naturalia France is a biotechnology company that produces natural products." }, 
+
+     { "name": "Petzl", "sector": "Consumer Goods & Industrial", "location": "Crolles, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Petzl is a manufacturing industry that provides technical equipment and LED headlamps for climbing, mountaineering, and other outdoor activities." }, 
+
+     { "name": "Septodont", "sector": "Dental & Manufacturing", "location": "Saint-maur-des-fossés, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Septodont is a pharmaceutical company that develops and manufactures dental products." }, 
+
+     { "name": "Centre Hospitalier De Hague", "sector": "Health Care & Hospital", "location": "Haguenau, Alsace, France", "revenue": "$100M to $500M", "description": "Centre Hospitalier De Haguenau offers medical care." }, 
+
+     { "name": "Mecalac", "sector": "Commercial & Industrial", "location": "Annecy, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Mecalac specializes in the design, manufacturing, and distribution of compact construction equipment." }, 
+
+     { "name": "Plattard", "sector": "Building Material & E-Commerce", "location": "Villefranche-sur-saone, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Plattard is a building material company that design, produce and distribute construction materials." }, 
+
+     { "name": "Gindre Duchavany", "sector": "Industrial & Manufacturing", "location": "Pont-de-chéruy, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Gindre Duchavany is a copper conductor manufacturer for various industries." }, 
+
+     { "name": "ASPEN Notre-Dame-de-Bondeville", "sector": "Manufacturing & Pharmaceutical", "location": "Notre-dame-de-bondeville, Haute-Normandie, France", "revenue": "$100M to $500M", "description": "ASPEN Notre-Dame-de-Bondeville provides the manufacturing and packaging of pharmaceutical products." }, 
+
+     { "name": "La Normandie", "sector": "Animal Feed & Manufacturing", "location": "Vire, Basse-Normandie, France", "revenue": "$100M to $500M", "description": "Manufacturer of dog and cat food in Normandy Normandie." }, 
+
+     { "name": "Buffet Crampon", "sector": "Manufacturing & Music", "location": "Mantes-la-ville, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Buffet Crampon is a manufacturer and distributor of wind instruments." }, 
+
+     { "name": "CMR Group", "sector": "Industrial Automation & Manufacturing", "location": "Marseille, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "CMR Group designs, manufactures, and markets integrated solutions for marine, energy, and industrial applications." }, 
+
+     { "name": "Filorga", "sector": "Beauty & Cosmetics & Manufacturing", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Filorga focuses on the production and distribution of anti-aging skincare products." }, 
+
+     { "name": "Bee Engineering", "sector": "Energy & Industrial", "location": "Boulogne-billancourt, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Bee Engineering provides engineering services to the energy sector." }, 
+
+     { "name": "Valrhona", "sector": "Confectionery & Food and Beverage", "location": "Tain-l'hermitage, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Valrhona is a chocolate manufacturer." }, 
+
+     { "name": "LACROIX City", "sector": "Digital Signage & Manufacturing", "location": "Saint-herblain, Pays de la Loire, France", "revenue": "$100M to $500M", "description": "LACROIX City designs and manufactures smart street lighting and traffic management solutions." }, 
+
+     { "name": "Harmony Medical Service", "sector": "Home Health Care & Medical", "location": "Saint-benoît, Bretagne, France", "revenue": "$100M to $500M", "description": "Harmony Medical Service provides services in home health care." }, 
+
+     { "name": "FINEQUIP", "sector": "Manufacturing & National", "location": "Nanterre, Ile-de-France, France", "revenue": "$100M to $500M", "description": "FINEQUIP is a French company which is dedicated to the industrial equipment sector." }, 
+
+     { "name": "Institut de Recherche en Association", "sector": "Association & Biotechnology", "location": "Toulouse, Midi-Pyrenees, France", "revenue": "$100M to $500M", "description": "The IRIT represents and the major potential of the French research in computer science." }, 
+
+     { "name": "Baccarat", "sector": "Fashion & Lifestyle & Manufacturing", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Baccarat is a French luxury brand that manufactures crystal products." }, 
+
+     { "name": "Vencorax", "sector": "Biotechnology & Chemical", "location": "Saint-priest, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Vencorax develops technologies in biocontrol, biostimulation, and biosolutions for agriculture." }, 
+
+     { "name": "Coventya", "sector": "Chemical & Manufacturing", "location": "Villeneuve-la-garenne, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Coventya is a global company that specializes in surface treatment chemicals." }, 
+
+     { "name": "DEMGY", "sector": "Industrial Design & Industrial", "location": "Saint-aubin-sur-gaillon, Haute-Normandie, France", "revenue": "$100M to $500M", "description": "DEMGY designs and manufactures plastic and composite parts for various industries." }, 
+
+     { "name": "Desoutter Tools", "sector": "Industrial Manufacturing", "location": "Saint-herblain, Pays de la Loire, France", "revenue": "$100M to $500M", "description": "Desoutter Tools company is a global manufacturer of air and electric tools for industrial applications." }, 
+
+     { "name": "Paragon ID", "sector": "Information Services & Industrial", "location": "Argent-sur-sauldre, Centre, France", "revenue": "$100M to $500M", "description": "Paragon ID is a leader in identification solutions in the fields of public transport, smart cities, and retail." }, 
+
+     { "name": "Fresenius Medical Care SMAD", "sector": "Commercial & Health Care", "location": "Savigny, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Fresenius Medical Care SMAD is a manufacturer and supplier of medical devices and services for kidney patients." }, 
+
+     { "name": "Rector Lesage", "sector": "Building Material & Construction", "location": "Mulhouse, Alsace, France", "revenue": "$100M to $500M", "description": "Rector Lesage is a manufacturer and distributor of concrete products for construction." }, 
+
+     { "name": "Riou Glass", "sector": "B2B & Manufacturing", "location": "Honfleur, Basse-Normandie, France", "revenue": "$100M to $500M", "description": "Riou Glass specialized in the transformation of flat glass." }, 
+
+     { "name": "JTEXI HPI", "sector": "Electronic Design Automation & Technology", "location": "Chennevières-sur-marne, Ile-de-France, France", "revenue": "$100M to $500M", "description": "JTEXI HPI is specializing in the design and production of high-performance electronic components." }, 
+
+     { "name": "CIAT", "sector": "Geothermal Energy & Heating", "location": "Culoz, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "CIAT provides heating, air conditioning, and air treatment solutions." }, 
+
+     { "name": "Sames", "sector": "Industrial & Industrial Automation", "location": "Meylan, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Sames is an industrial automation company that offers painting and coating solutions." }, 
+
+     { "name": "Active' Invest", "sector": "Consulting & Energy", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Active' Invest is an industrial group that designs smart energy solutions." }, 
+
+     { "name": "Baud Industries", "sector": "Industrial & Manufacturing", "location": "Vougy, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Baud Industries provides mechanical bearing assembly and other industrial components." }, 
+
+     { "name": "Groupe Gazechim", "sector": "Chemical & Manufacturing", "location": "Béziers, Languedoc-Roussillon, France", "revenue": "$100M to $500M", "description": "Groupe Gazechim provides packaging and distribution of chemicals." }, 
+
+     { "name": "Alsapan", "sector": "Construction & Industrial", "location": "Mulbach-sur-bruche, Alsace, France", "revenue": "$100M to $500M", "description": "Alsapan is a manufacturing company that specializes in laminate flooring, kitchen worktops, and other wood products." }, 
+
+     { "name": "PCAS", "sector": "Chemical & Life Science", "location": "Longjumeau, Ile-de-France, France", "revenue": "$100M to $500M", "description": "PCAS is a technology-oriented fine chemical group serving the pharmaceutical, cosmetics, and specialty industries." }, 
+
+     { "name": "Semin", "sector": "Building Material & Industrial", "location": "Kédange-sur-canner, Lorraine, France", "revenue": "$100M to $500M", "description": "Semin manufactures primaries, sealants, decorative plasters, and other building materials." }, 
+
+     { "name": "Holistica International", "sector": "Dietary Supplements & Food", "location": "Éguilles, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "Holistica International manufactures and distributes dietary supplements and natural health products." }, 
+
+     { "name": "Bodet", "sector": "Industrial & Manufacturing", "location": "Cholet, Pays de la Loire, France", "revenue": "$100M to $500M", "description": "Bodet is a watch manufacturing company." }, 
+
+     { "name": "Octapharma", "sector": "Biotechnology & Health Care", "location": "Lingolsheim, Alsace, France", "revenue": "$100M to $500M", "description": "Octapharma manufactures human proteins from human plasma." }, 
+
+     { "name": "Somater", "sector": "Industrial Manufacturing", "location": "Boulogne-billancourt, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Somater is a group of manufacturing companies that produces plastic packaging for various industries." }, 
+
+     { "name": "Eurogerm", "sector": "Food Processing & Manufacturing", "location": "Saint-apolinaire, Bourgogne, France", "revenue": "$100M to $500M", "description": "Eurogerm SA is a company specializing in manufacture and supply of ingredients for the baking industry." }, 
+
+     { "name": "CHAMPION", "sector": "Building Material & Manufacturing", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "CHAMPION is a manufacturer and distributor of a variety of building materials." }, 
+
+     { "name": "Groupe Sifcor", "sector": "Automotive & Machinery", "location": "Nogent, Centre, France", "revenue": "$100M to $500M", "description": "Groupe Sifcor is a manufacturing company that produces forged and machined components for the automotive industry." }, 
+
+     { "name": "Pernat Industrie", "sector": "Industrial Manufacturing", "location": "Rouen, Haute-Normandie, France", "revenue": "$100M to $500M", "description": "Pernat Industrie are the supplier of high-precision metal parts." }, 
+
+     { "name": "Ciric Chemicals", "sector": "Chemical & Manufacturing", "location": "Saint-louis, Alsace, France", "revenue": "$100M to $500M", "description": "Ciric Chemical is a provider of polymer-soluble colorants." }, 
+
+     { "name": "Financ'Mans", "sector": "Industrial & Machinery", "location": "Le Mans, Pays de la Loire, France", "revenue": "$100M to $500M", "description": "Financ'Mans provides financing of capital goods in a variety of industries." }, 
+
+     { "name": "Alès Groupe", "sector": "Manufacturing", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Alès Groupe specializes in the design, manufacturing, and distribution of cosmetics and hair care products." }, 
+
+     { "name": "Méca Marine Propulsion", "sector": "Heating, Ventilation, and Air Conditioning", "location": "Le Guillvinec, Bretagne, France", "revenue": "$100M to $500M", "description": "Méca Marine Propulsion offers marine mechanics services, including engine repair, maintenance, and installation." }, 
+
+     { "name": "Guillemot Corporation", "sector": "Manufacturing", "location": "Chantepie, Bretagne, France", "revenue": "$100M to $500M", "description": "Guillemot Corporation designs and manufactures interactive entertainment hardware and accessories." }, 
+
+     { "name": "Queguiner Materiaux", "sector": "Building Material & Construction", "location": "Landivisiau, Bretagne, France", "revenue": "$100M to $500M", "description": "Queguiner Materiaux is a manufacturer and supplier of building materials." }, 
+
+     { "name": "Canon Bretagne", "sector": "Consumer Goods & Electronics", "location": "Liffré, Bretagne, France", "revenue": "$100M to $500M", "description": "Canon Bretagne has all the new techniques and industrial processes." }, 
+
+     { "name": "Groupe Installux", "sector": "Industrial Manufacturing", "location": "Saint-bonnet-de-mure, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Groupe Installux specializes in the design, manufacture, and distribution of aluminum systems for building and industrial applications." }, 
+
+     { "name": "Wind for Future", "sector": "Energy & Environmental", "location": "Longvic, Bourgogne, France", "revenue": "$100M to $500M", "description": "Wind for Future provides environmental science, energy, and sustainable development solutions." }, 
+
+     { "name": "Terra Delyssa", "sector": "Food and Beverage & Manufacturing", "location": "Lille, Nord-Pas-de-Calais, France", "revenue": "$100M to $500M", "description": "Terra Delyssa offers olive oil products, including virgin and extra virgin olive oils." }, 
+
+     { "name": "Alpine", "sector": "Automotive & Manufacturing", "location": "Dieppe, Haute-Normandie, France", "revenue": "$100M to $500M", "description": "Alpine is a manufacturer of racing and sports cars." }, 
+
+     { "name": "InnovFeed", "sector": "Agriculture & Alternative Protein", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "InnovFeed is a biotech company that produces a new protein source from insects for animal feed." }, 
+
+     { "name": "JIA SA", "sector": "B2B & Furniture", "location": "Le Blanc-mesnil, Ile-de-France, France", "revenue": "$100M to $500M", "description": "JIA SA is an omni-channel B2B provider of home furnishings." }, 
+
+     { "name": "Seita Imperial Tobacco", "sector": "Consumer & Manufacturing", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Seita is a tobacco manufacturing company that produces and distributes tobacco products." }, 
+
+     { "name": "Elydan", "sector": "Customer Service & Manufacturing", "location": "Saint-étienne-de-saint-geoirs, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Elydan designs and supplies polymer solutions and products for various industries." }, 
+
+     { "name": "Richel Group", "sector": "Agriculture & Farming", "location": "Eygalières, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "Richel Group manufactures and supplies a wide range of greenhouses and related equipment for horticulture." }, 
+
+     { "name": "Ingredia", "sector": "Dairy & Food and Beverage", "location": "Arras, Nord-Pas-de-Calais, France", "revenue": "$100M to $500M", "description": "Ingredia is a cooperative that offers a wide variety of quality milk and dairy ingredients." }, 
+
+     { "name": "Pellenc", "sector": "Agriculture & Industrial", "location": "Pertuis, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "Pellenc is a manufacturer of equipment and power tools for viticulture, arboriculture, and olive growing." }, 
+
+     { "name": "R.Bourgeois", "sector": "Automotive & Industrial", "location": "Besançon, Franche-Comte, France", "revenue": "$100M to $500M", "description": "R. Bourgeois is a metallurgy company that offers rotor and stator stamping for electric motors." }, 
+
+     { "name": "Paul Boyé Technologies", "sector": "E-Commerce Platform & Manufacturing", "location": "Labarthe-sur-lèze, Midi-Pyrenees, France", "revenue": "$100M to $500M", "description": "Paul Boyé Technologies is a digital store that manufactures and distributes high-tech textiles and clothing." }, 
+
+     { "name": "Telemecanique Sensors", "sector": "Electronics & Internet of Things", "location": "Rueil-malmaison, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Telemecanique Sensors is a appliances, electrical, and electronics manufacturing company." }, 
+
+     { "name": "Eurodep", "sector": "Cosmetics & Health Care", "location": "Mitry-mory, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Eurodep provides customer services for veterinary drugs and animal health products." }, 
+
+     { "name": "Gesches Chimie", "sector": "Chemical & Logistics", "location": "Toulouse, Midi-Pyrenees, France", "revenue": "$100M to $500M", "description": "Gesches Chimie is a chemical manufacturer and supplier with a wide range of chemical products." }, 
+
+     { "name": "Superga Beauty", "sector": "Beauty & Cosmetics", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Superga Beauty is a beauty and personal care company that offers a wide range of cosmetics and fragrances." }, 
+
+     { "name": "Sauermann France", "sector": "Building Maintenance & Construction", "location": "Chemin-de-crosigny, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Sauermann France is a manufacturer of condensate pumps and accessories for HVAC systems." }, 
+
+     { "name": "Nutriset", "sector": "Food Processing & Health", "location": "Malaunay, Haute-Normandie, France", "revenue": "$100M to $500M", "description": "Nutriset focuses on research & solutions to prevent and treat malnutrition in developing countries." }, 
+
+     { "name": "Bulachimie", "sector": "Chemical & Chemical Engineering", "location": "Dittmarsheim, Alsace, France", "revenue": "$100M to $500M", "description": "Bulachimie is a manufacturer of polymer intermediates." }, 
+
+     { "name": "Costox", "sector": "Chemical & Manufacturing", "location": "Colombes, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Costox is a designer and manufacturer of water-based coatings." }, 
+
+     { "name": "Trixell", "sector": "Manufacturing & Medical", "location": "Moirans, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Trixell manufactures large-format digital detectors for medical imaging." }, 
+
+     { "name": "Champagne Louis Roederer", "sector": "Food and Beverage & Manufacturing", "location": "Reims, Champagne-Ardenne, France", "revenue": "$100M to $500M", "description": "Champagne Louis Roederer is a producer of champagnes and fine wines." }, 
+
+     { "name": "Qualipac", "sector": "Chemical & Manufacturing", "location": "Haubourdin, Nord-Pas-de-Calais, France", "revenue": "$100M to $500M", "description": "Qualipac specializes in manufacturing and skin care products." }, 
+
+     { "name": "SIMU", "sector": "Home Improvement & Industrial", "location": "Arc-les-gray, Franche-Comte, France", "revenue": "$100M to $500M", "description": "SIMU designs and manufactures tubular motors for roller shutters, awnings, and other applications." }, 
+
+     { "name": "IPTE", "sector": "Industrial Automation & Manufacturing", "location": "Carlignopt, Picardie, France", "revenue": "$100M to $500M", "description": "IPTE is a global supplier of automation solutions for the electronics and automotive industries." }, 
+
+     { "name": "Peintures Maestria", "sector": "Building Material & Manufacturing", "location": "Pamiers, Midi-Pyrenees, France", "revenue": "$100M to $500M", "description": "Peintures Maestria is a paint manufacturer company that produces paints, coatings, and varnishes." }, 
+
+     { "name": "Heuliez Bus", "sector": "Electric Vehicle & Manufacturing", "location": "Mauleon, Aquitaine, France", "revenue": "$100M to $500M", "description": "Heuliez Bus designs and manufactures electric and hybrid buses." }, 
+
+     { "name": "PROVA", "sector": "Consumer Goods & Food", "location": "Montreuil, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Prova is a manufacturer of vanilla, cocoa, coffee, and other natural extracts." }, 
+
+     { "name": "Famille Michaud Apiculteurs", "sector": "Agriculture & Food & Manufacturing", "location": "Gan, Aquitaine, France", "revenue": "$100M to $500M", "description": "Famille Michaud Apiculteurs is a family manufacturer of honey and other bee products." }, 
+
+     { "name": "Jeltco", "sector": "Chemical & Home Renovation", "location": "La Penne, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "Jeltco is a manufacturer and distributor of paints, coatings, and other home renovation products." }, 
+
+     { "name": "SFERIS", "sector": "Construction & Facilities", "location": "Paris, Ile-de-France, France", "revenue": "$100M to $500M", "description": "SFERIS is a construction & public facility service company that specializes in railway infrastructure." }, 
+
+     { "name": "Naphthachimie", "sector": "Chemical & Chemical Engineering", "location": "Lavéra, Provence-Alpes-Cote d'Azur, France", "revenue": "$100M to $500M", "description": "Naphthachimie is a chemical manufacturing company that produces olefins and aromatics." }, 
+
+     { "name": "Loste Tradi France", "sector": "Food and Beverage & Food", "location": "Badées, Bretagne, France", "revenue": "$100M to $500M", "description": "Loste Tradi France is a manufacturer of cold meats and other food products." }, 
+
+     { "name": "Amplitude Surgical", "sector": "Biotechnology & Health Care", "location": "Valence, Ile-de-France, France", "revenue": "$100M to $500M", "description": "Amplitude Surgical is a leading French player on the global market for orthopedic surgery." }, 
+
+     { "name": "Axiane Meunerie", "sector": "Food and Beverage & Food", "location": "Orléans, Centre, France", "revenue": "$100M to $500M", "description": "Axiane Meunerie is a manufacturer and marketing of flour and other cereal products." }, 
+
+     { "name": "Charbonneaux-Brabant", "sector": "Food and Beverage & Food", "location": "Reims, Champagne-Ardenne, France", "revenue": "$100M to $500M", "description": "Charbonneaux-Brabant is a manufacturer and distributor of vinegars, mustards, and other condiments." }, 
+
+     { "name": "Laboratoire Arrow", "sector": "Biotechnology & Manufacturing", "location": "Lyon, Rhone-Alpes, France", "revenue": "$100M to $500M", "description": "Laboratoire Arrow has expertise in the drug testing and development." }, 
+
+     { "name": "Connetable", "sector": "Food and Beverage & Food", "location": "Douarnenez, Bretagne, France", "revenue": "$100M to $500M", "description": "Connetable manufactures seafood products and offers a wide range of canned fish." }, 
+
+     { "name": "Piveteaubois", "sector": "Industrial & Manufacturing", "location": "Sainte-florence, Aquitaine, France", "revenue": "$100M to $500M", "description": "Piveteaubois is a softwood and industrial manufacturer of wood products." }, 
+
+     { "name": "Groupe SIAT", "sector": "Environmental Consulting", "location": "Urmatt, Alsace, France", "revenue": "$100M to $500M", "description": "Groupe SIAT is a professional in the wood industry providing services for sustainable forest management." }, 
+
+     { "name": "Pagot Savoie", "sector": "Building Material & Heating", "location": "Chenôve, Bourgogne, France", "revenue": "$100M to $500M", "description": "Pagot Savoie specializes in the manufacturing of bathrooms, kitchens, and other heating products." }, 
+
+     { "name": "Defial Normival", "sector": "Food and Beverage & Food", "location": "Luneray, Haute-Normandie, France", "revenue": "$100M to $500M", "description": "Defial Normival is a food processing company that produces dairy products." }, 
+
+     { "name": "Salaisons Celtiques", "sector": "Food and Beverage & Food", "location": "Le Sourn, Bretagne, France", "revenue": "$100M to $500M", "description": "Salaisons Celtiques provides manufacturing, packaging, and distribution of cured meats." }, 
+
+     { "name": "Alliard Emballages", "sector": "Industrial Manufacturing", "location": "Brive-la-gaillarde, Limousin, France", "revenue": "$100M to $500M", "description": "Alliard Emballages manufactures and sells paper and cardboard packaging." }, 
+
+     { "name": "3W Dystrybucja Budowlana", "sector": "Building Material & Construction", "location": "Swietokrzyskie, Poland", "revenue": "$100M to $500M", "description": "3W Dystrybucja Budowlana offers construction solutions." }, 
+
+     { "name": "ATB Tamel", "sector": "Electronics & Machinery", "location": "Malopolskie, Poland", "revenue": "$100M to $500M", "description": "ATB Tamel is a manufacturer of electric motors and electrical machines." }, 
+
+     { "name": "Indykpol", "sector": "Food and Beverage & Food Processing", "location": "Warminsko-Mazurskie, Poland", "revenue": "$100M to $500M", "description": "Indykpol is a poultry company that is involved in the breeding, slaughtering, and processing of turkeys and chickens." }, 
+
+     { "name": "Sameez", "sector": "Agriculture & Automotive", "location": "Podlaskie, Poland", "revenue": "$100M to $500M", "description": "Sameez manufactures drum mowers, forage machines, and other agricultural machinery." }, 
+
+     { "name": "Camlin Technologies Poland", "sector": "Manufacturing & Product", "location": "Malopolskie, Poland", "revenue": "$100M to $500M", "description": "Camlin operates with the vision of bringing revolutionary solutions to market." }, 
+
+     { "name": "Wagnert", "sector": "Consumer Goods & E-Commerce", "location": "Dolnoslaskie, Poland", "revenue": "$100M to $500M", "description": "Wagnert combines with its modern technology and design." }, 
+
+     { "name": "Ventor", "sector": "Heating, Ventilation, and Air Conditioning", "location": "Lubelskie, Poland", "revenue": "$100M to $500M", "description": "Ventor sp. z o.o. is a manufacturer of HVAC systems." }, 
+
+     { "name": "Acadogaz", "sector": "Electronics & Manufacturing", "location": "Podlaskie, Poland", "revenue": "$100M to $500M", "description": "AC is a manufacturer of modern SYNGAS, LPG, and CNG systems." }, 
+
+     { "name": "KGL", "sector": "Manufacturing & Packaging", "location": "Swietokrzyskie, Poland", "revenue": "$100M to $500M", "description": "KGL is a supplier of thermoplastic polymer granules." }, 
+
+     { "name": "Stock Polska", "sector": "Manufacturing & Wholesale", "location": "Mazowieckie, Poland", "revenue": "$100M to $500M", "description": "Stock Polska manufactures and supplies vodka-based liquors." }, 
+
+     { "name": "Activeweb", "sector": "Biotechnology & Internet", "location": "Mazowieckie, Poland", "revenue": "$100M to $500M", "description": "Activeweb Medical Solution creates new methods and tools for medical research." }, 
+
+     { "name": "Biofarm", "sector": "Manufacturing & Medical", "location": "Wielkopolskie, Poland", "revenue": "$100M to $500M", "description": "Biofarm is a pharmaceutical company that manufactures and distributes medicines." }, 
+
+     { "name": "Factory of conveyor belts", "sector": "Manufacturing & Plastics", "location": "Slaskie, Poland", "revenue": "$100M to $500M", "description": "Factory of conveyor belts provides conveyor belts, rubber, and plastic products." }, 
+
+     { "name": "TME GB", "sector": "Electronics & Hardware", "location": "Lodzkie, Poland", "revenue": "$100M to $500M", "description": "Distributors of electronic, electromechanical, industrial automation components." }, 
+
+     { "name": "AMBER", "sector": "Brewing & Manufacturing", "location": "Mazowieckie, Poland", "revenue": "$100M to $500M", "description": "AMBER is a manufacturer, importer, and distributor of alcoholic beverages." }, 
+
+     { "name": "PCC Exol", "sector": "Chemical & Manufacturing", "location": "Dolnoslaskie, Poland", "revenue": "$100M to $500M", "description": "PCC Exol manufactures surfactants and other chemicals." }, 
+
+     { "name": "Mostostalpic", "sector": "Industrial Engineering", "location": "Mazowieckie, Poland", "revenue": "$100M to $500M", "description": "Mostostal provides mechanical engineering services for the oil and gas industry." }, 
+
+     { "name": "Cabelte", "sector": "Consumer Goods & Food", "location": "Porto, Portugal", "revenue": "$100M to $500M", "description": "Cabelte is a textile manufacturing company that produces and distributes cables and wires." }, 
+
+     { "name": "Luso", "sector": "Industrial Engineering", "location": "Lisboa, Portugal", "revenue": "$100M to $500M", "description": "Luso is a logistics company that offers land transportation, warehousing, and distribution services." }, 
+
+     { "name": "LAMEIRINHO", "sector": "Manufacturing & Textiles", "location": "Braga, Portugal", "revenue": "$100M to $500M", "description": "LAMEIRINHO, designer and manufacturer of textile products." }, 
+
+     { "name": "CaetanoBus", "sector": "Automotive & Manufacturing", "location": "Porto, Portugal", "revenue": "$100M to $500M", "description": "CaetanoBus is in the automotive industry that manufactures buses and coaches." }, 
+
+     { "name": "Amtrol-Alfa", "sector": "Industrial Manufacturing", "location": "Braga, Portugal", "revenue": "$100M to $500M", "description": "Amtrol-Alfa is a main factory of steel cylinders in the world." }, 
+
+     { "name": "GHP Investimentos", "sector": "Automotive & Industrial", "location": "Lisboa, Portugal", "revenue": "$100M to $500M", "description": "GHP Investimentos specializes in the import and distribution of automotive parts and accessories." }, 
+
+     { "name": "Danestia", "sector": "Confectionery & Food and Beverage", "location": "Coimbra, Portugal", "revenue": "$100M to $500M", "description": "Danestia is a food manufacturer that produces and distributes confectionery products." }, 
+
+     { "name": "Polopique", "sector": "Fashion & Manufacturing", "location": "Porto, Portugal", "revenue": "$100M to $500M", "description": "Polopique is a textile company specializing in spinning, weaving, and finishing of fabrics." }, 
+
+     { "name": "Foundation for Science and Technology", "sector": "Biotechnology & Education", "location": "Lisboa, Portugal", "revenue": "$100M to $500M", "description": "FCT is the funding platform that strives to support science and technology in Portugal." }, 
+
+     { "name": "Tecnifar", "sector": "Biotechnology & Pharmaceutical", "location": "Lisboa, Portugal", "revenue": "$100M to $500M", "description": "Tecnifar is a pharmaceutical company that manufactures and distributes medicines." }, 
+
+     { "name": "Kolquimica Adhesives", "sector": "Chemical & Industrial", "location": "Aveiro, Portugal", "revenue": "$100M to $500M", "description": "Kolquimica Adhesives specializes in the production and distribution of adhesives and sealants." }, 
+
+     { "name": "Symington Family Estates", "sector": "Manufacturing & Wine and Spirits", "location": "Porto, Portugal", "revenue": "$100M to $500M", "description": "Symington Family Estates is a beverage manufacturing company that produces and distributes wines." }, 
+
+     { "name": "Grupo Soares", "sector": "Building Material & Construction", "location": "Aveiro, Portugal", "revenue": "$100M to $500M", "description": "Grupo Soares is a manufacturing company of building materials." }, 
+
+     { "name": "Intraplás", "sector": "Food and Beverage & Industrial", "location": "Porto, Portugal", "revenue": "$100M to $500M", "description": "Intraplás is a supplier of products to the food industry." }, 
+
+     { "name": "SetLinings International", "sector": "Industrial & Industrial Engineering", "location": "Setúbal, Portugal", "revenue": "$100M to $500M", "description": "SetLinings International is a refractory company that provides solutions for high-temperature applications." }, 
+
+     { "name": "Bondalti", "sector": "Chemical & Manufacturing", "location": "Lisboa, Portugal", "revenue": "$100M to $500M", "description": "Bondalti manufactures vital chemical products on a daily basis." }, 
+
+     { "name": "San Carlo", "sector": "Food and Beverage & Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "San Carlo specializes in the production of a variety of chips, snacks, and other food products." }, 
+
+     { "name": "Durst Group", "sector": "Consumer Electronics & Manufacturing", "location": "Brixen, Trentino-Alto Adige, Italy", "revenue": "$100M to $500M", "description": "Durst Group is a manufacturer of advanced digital printing and imaging technologies." }, 
+
+     { "name": "Stonex", "sector": "3D Technology & Electronics", "location": "Paderno Dugnano, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Stonex deals with the design and production of topographic and surveying instruments." }, 
+
+     { "name": "Abiogen Pharma", "sector": "Biotechnology & Health Care", "location": "Pisa, Toscana, Italy", "revenue": "$100M to $500M", "description": "Abiogen Pharma is a pharmaceutical company." }, 
+
+     { "name": "Caleffi", "sector": "Energy & Heating, Ventilation, and Air Conditioning", "location": "Fontaneto D'agogna, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Caleffi is a manufacturer of components for heating, plumbing, and air conditioning systems." }, 
+
+     { "name": "Eigenmann & Veronelli", "sector": "Chemical & Cosmetics & Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Eigenmann & Veronelli produces and distributes chemical specialties and ingredients for various industries." }, 
+
+     { "name": "Teva Teva", "sector": "Health Care & Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Teva is a manufacturer and markets generic and specialty medicines." }, 
+
+     { "name": "Indel B", "sector": "Consumer Electronics & Health Care", "location": "Sant'agata Feltria, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Indel B operates as a chain of hotels as well as a manufacturer of refrigerators and other appliances." }, 
+
+     { "name": "Bottero", "sector": "Industrial & Industrial Engineering", "location": "Cuneo, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Bottero is the only company in the world that have been manufacturing glass processing machines for more than 100 years." }, 
+
+     { "name": "ab medica", "sector": "Health Care & Medical", "location": "Cerro Maggiore, Lombardia, Italy", "revenue": "$100M to $500M", "description": "ab medica offers the production and distribution of medical devices and technologies." }, 
+
+     { "name": "Gruppo Mastrotto SpA", "sector": "Automotive & Fashion", "location": "Arzignano, Veneto, Italy", "revenue": "$100M to $500M", "description": "Gruppo Mastrotto SpA is a manufacturer of bovine leather for various industries." }, 
+
+     { "name": "SLM Aluminum", "sector": "Consumer Goods & Industrial", "location": "Cisterna Di Latina, Lazio, Italy", "revenue": "$100M to $500M", "description": "SLM manufactures a wide range of aluminum sheets, coils, and plates." }, 
+
+     { "name": "Dellorto", "sector": "Automotive & Industrial", "location": "Meda, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Dellorto is an automotive manufacturing firm that produces carburetors, fuel injection systems, and other engine components." }, 
+
+     { "name": "Amut", "sector": "Machinery Manufacturing", "location": "Novara, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Amut is a plastic recycling plant manufacturer that provides solutions for the plastics industry." }, 
+
+     { "name": "Gruppo Cimbali SpA", "sector": "Email & Industrial", "location": "Binasco, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Gruppo Cimbali SpA is a market leader in the design and production of professional espresso and cappuccino machines." }, 
+
+     { "name": "Inalpi", "sector": "Food and Beverage & Food", "location": "Moretta, Veneto, Italy", "revenue": "$100M to $500M", "description": "Inalpi specializes in the production and supply of dairy products." }, 
+
+     { "name": "Yves Rocher Italia", "sector": "Beauty & Cosmetics", "location": "Origgio, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Yves Rocher Italia is a manufacturer and distributor of cosmetics and beauty products." }, 
+
+     { "name": "Celada", "sector": "Manufacturing & Professional Services", "location": "Cologno Monzese, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Celada offers turning, milling, electro erosion, automation, and other machine tools." }, 
+
+     { "name": "Icam Cioccolato", "sector": "Confectionery & Food", "location": "Lecco, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Icam Cioccolato is a food production company that produces and distributes chocolate and cocoa products." }, 
+
+     { "name": "Gruppo Romani", "sector": "Building Material & Home Improvement", "location": "Casalgrande, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Gruppo Romani is a manufacturer and retailer of a wide range of ceramic tiles." }, 
+
+     { "name": "Sirmax", "sector": "Industrial & Industrial Engineering", "location": "Cittadella, Veneto, Italy", "revenue": "$100M to $500M", "description": "Sirmax provides polyolefin, engineering plastics, and other thermoplastic compounds." }, 
+
+     { "name": "Vibac", "sector": "Chemical & Food Processing", "location": "Ticinato, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Vibac is an adhesive tape manufacturer focused on the production of packaging tapes." }, 
+
+     { "name": "Fiorini International", "sector": "Manufacturing & Paper", "location": "Ancona, Marche, Italy", "revenue": "$100M to $500M", "description": "Fiorini International is a manufacturing company that produces paper and cardboard packaging." }, 
+
+     { "name": "PFM Packaging Machinery", "sector": "Machinery Manufacturing", "location": "Torrebelvicino, Veneto, Italy", "revenue": "$100M to $500M", "description": "PFM Packaging Machinery is a packaging machinery manufacturer." }, 
+
+     { "name": "Officine Vica", "sector": "Industrial & Industrial Manufacturing", "location": "Rivoli, Toscana, Italy", "revenue": "$100M to $500M", "description": "Officine Vica specializes in the manufacture of mechanical components for various industries." }, 
+
+     { "name": "Gnutti Cirillo", "sector": "Customer Service & Industrial", "location": "Brescia, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Gnutti Cirillo is a provider of hot forging and mechanical processing services." }, 
+
+     { "name": "Metalsistem", "sector": "Furniture & Industrial", "location": "Rovereto, Trentino-Alto Adige, Italy", "revenue": "$100M to $500M", "description": "Metalsistem is a manufacturing company engaged in the production of shelving and storage systems." }, 
+
+     { "name": "Stecol Flex Group", "sector": "Apparel & Manufacturing", "location": "Trezzo Sull'adda, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Stecol Flex Group is a clothing firm that designs, manufactures, and distributes sportswear." }, 
+
+     { "name": "Helios Coatings Italia", "sector": "Automotive & Industrial", "location": "Riese, Veneto, Italy", "revenue": "$100M to $500M", "description": "Helios Coatings Italia provides a diverse range of services." }, 
+
+     { "name": "Costruzioni Linee Ferroviarie", "sector": "Industrial Manufacturing", "location": "Bologna, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Costruzioni Linee Ferroviarie is a manufacturing company that specializes in railway infrastructure." }, 
+
+     { "name": "Ratti", "sector": "Manufacturing & Printing", "location": "Como, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Ratti is a manufacturer of printed, plain, yarn-dyed, and jacquard fabrics." }, 
+
+     { "name": "Monge", "sector": "Food and Beverage & Manufacturing", "location": "Savigliano, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Monge manufactures nutritious dog and cat food along with other pet food products." }, 
+
+     { "name": "Sira Industrie s.p.a.", "sector": "Automotive & Manufacturing", "location": "Bologna, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Sira Industrie are into die casting, heating and cooling systems." }, 
+
+     { "name": "Crocco", "sector": "Manufacturing & Packaging", "location": "Cornedo Vicentino, Veneto, Italy", "revenue": "$100M to $500M", "description": "Crocco manufactures flexible packaging solutions." }, 
+
+     { "name": "Cromodora Wheels", "sector": "Industrial Engineering", "location": "Ghedi, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Cromodora Wheels is an industrial engineering company that produces aluminum alloy wheels." }, 
+
+     { "name": "Lampre", "sector": "Industrial Manufacturing", "location": "Usamate Velate, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Lampre specializes in the production of pre-coated sheets and coils for various industries." }, 
+
+     { "name": "Sterilgarda", "sector": "Food Delivery & Food Processing", "location": "Castiglione Delle Stiviere, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Sterilgarda provides production and supplies services of milk and dairy products." }, 
+
+     { "name": "Zhermack", "sector": "Commercial & Industrial", "location": "Badia Polesine, Veneto, Italy", "revenue": "$100M to $500M", "description": "Zhermack manufactures and distributes products such as impression materials, gypsum, and waxes for dental applications." }, 
+
+     { "name": "Deco Industrie", "sector": "Manufacturing & Packaging", "location": "Bagnacavallo, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Deco Industrie engages in designing, manufacturing, and distributing packaging materials and solutions." }, 
+
+     { "name": "SIIT", "sector": "Manufacturing & Packaging", "location": "Trezzano Sul Naviglio, Lombardia, Italy", "revenue": "$100M to $500M", "description": "SIIT is a developer and contract manufacturer of consumer self-care and medical devices." }, 
+
+     { "name": "Rossi Group", "sector": "Electronics & Industrial", "location": "Modena, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Rossi Group is a manufacturing company that supplies gear reducers, gearmotors, and other power transmission components." }, 
+
+     { "name": "Bayker Italy", "sector": "Building Material & Construction", "location": "Fiorano Modenese, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Bayker Italy is a tile manufacturing company that offers floor and wall tiles. It is a building material company." }, 
+
+     { "name": "Officine Ambrogio Melesi", "sector": "Industrial Engineering & Manufacturing", "location": "Torrenova, Lazio, Italy", "revenue": "$100M to $500M", "description": "Officine Ambrogio Melesi is a manufacturer of flange." }, 
+
+     { "name": "Sicad", "sector": "Chemical & Industrial", "location": "Varese, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Sicad is a chemical manufacturing company that produces and distributes adhesive tapes." }, 
+
+     { "name": "Idrocentro", "sector": "Building Material & Construction", "location": "San Giorgio, Campania, Italy", "revenue": "$100M to $500M", "description": "Idrocentro is a distribution company that offers plumbing, heating, and air conditioning products." }, 
+
+     { "name": "Bencarni", "sector": "Food and Beverage & Food", "location": "Nogaredo Rocca, Veneto, Italy", "revenue": "$100M to $500M", "description": "Bencarni is a meat processing company that processes, packages, and distributes fresh and frozen meat products." }, 
+
+     { "name": "Cuiki Cofresco", "sector": "Consumer Goods & Manufacturing", "location": "Volpiano, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Cuiki Cofresco manufactures and supplies packaging and household products." }, 
+
+     { "name": "DOpla", "sector": "Industrial & Manufacturing", "location": "Casale Sul Sile, Veneto, Italy", "revenue": "$100M to $500M", "description": "DOpla manufactures and supplies biopolymer, reusable, and other plastic products." }, 
+
+     { "name": "Materassificio Montalese", "sector": "Furniture & Manufacturing", "location": "Agliana, Toscana, Italy", "revenue": "$100M to $500M", "description": "Materassificio Montalese specializes in the manufacture of mattresses and bedding products." }, 
+
+     { "name": "Ragaini Radiatori", "sector": "Industrial Design & Industrial", "location": "Loreto, Marche, Italy", "revenue": "$100M to $500M", "description": "Ragaini Radiatori manufactures die-cast aluminum radiators for heating systems." }, 
+
+     { "name": "Natuzzi", "sector": "Furniture & Interior Design", "location": "Santeramo In Colle, Puglia, Italy", "revenue": "$100M to $500M", "description": "Natuzzi is a furniture company." }, 
+
+     { "name": "Istituto Europeo di Oncologia", "sector": "Education & Health Care", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "European Institute of Oncology is an oncology research and treatment center." }, 
+
+     { "name": "Trevi Finanziaria Industriale", "sector": "Construction & Industrial", "location": "Cesena, Emilia-Romagna, Italy", "revenue": "$10M to $50M", "description": "Trevi Finanziaria Industriale is a company that provides specialized engineering services for underground works." }, 
+
+     { "name": "Elica", "sector": "Consumer Goods", "location": "Fabriano, Emilia-Romagna, Italy", "revenue": "$10M to $50M", "description": "Elica is an international manufacturer of kitchen hoods and other cooking appliances." }, 
+
+     { "name": "Valvitalia", "sector": "Consumer Goods & Energy", "location": "Rivanazzano, Lombardia, Italy", "revenue": "$10M to $50M", "description": "VALVITALIA is a leading group in the design, production and supply of valves, actuators, and piping products." }, 
+
+     { "name": "Morosini", "sector": "Automotive & Manufacturing", "location": "Rovereto, Trentino-Alto Adige, Italy", "revenue": "$10M to $50M", "description": "Morosini manufactures tire retreading systems." }, 
+
+     { "name": "IREM", "sector": "Construction & Industrial", "location": "Siracusa, Sicilia, Italy", "revenue": "$10M to $50M", "description": "IREM is an oil and gas firm that offers mechanical construction and maintenance services." }, 
+
+     { "name": "Comau", "sector": "Industrial & Industrial Automation", "location": "Grugliasco, Piemonte, Italy", "revenue": "$10M to $50M", "description": "Comau is a worldwide leader in industrial automation and robotics." }, 
+
+     { "name": "GVS", "sector": "Health Care & Logistics", "location": "Zola Predosa, Emilia-Romagna, Italy", "revenue": "$10M to $50M", "description": "GVS is a developer and manufacturer of filtration solutions for various industries." }, 
+
+     { "name": "Zignago Vetro", "sector": "Food and Beverage & Manufacturing", "location": "Fossalta, Veneto, Italy", "revenue": "$10M to $50M", "description": "Zignago Vetro is a manufacturer of glass containers for the food and beverage industry." }, 
+
+     { "name": "PQE Group", "sector": "Biotechnology & Data Intelligence", "location": "Reggello, Toscana, Italy", "revenue": "$10M to $50M", "description": "PQE Group is a life science service provider company." }, 
+
+     { "name": "Tecnoprobe", "sector": "Hardware & Industrial Engineering", "location": "Cernusco, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Tecnoprobe manufactures semiconductor probe cards and test solutions." }, 
+
+     { "name": "DMO", "sector": "Consumer Goods", "location": "Pernumia, Veneto, Italy", "revenue": "$10M to $50M", "description": "DMO is a manufacturing company that manufactures and sells plastic products for household use." }, 
+
+     { "name": "SAES Getters", "sector": "Advanced Materials & Electronics", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "SAES Getters manufactures and supplies a wide range of electronic components, including getters, dispensers, and other advanced materials." }, 
+
+     { "name": "Engie", "sector": "Energy Efficiency & Energy", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Engie produces and distributes electricity and gas for residential, commercial, and industrial customers." }, 
+
+     { "name": "Fidia Farmaceutici", "sector": "Biotechnology & Manufacturing", "location": "Abano Terme, Veneto, Italy", "revenue": "$10M to $50M", "description": "Fidia Farmaceutici is a multinational company with R&D, manufacturing, and distribution of pharmaceutical products." }, 
+
+     { "name": "STIGA S.p.A.", "sector": "Consumer Goods", "location": "Castelfranco, Lazio, Italy", "revenue": "$10M to $50M", "description": "STIGA S.p.A. is the largest manufacturer of lawn mowers and other garden machinery." }, 
+
+     { "name": "Gewiss", "sector": "Electrical Distribution & Electronics", "location": "Bergamo, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Gewiss is a leading international company in the electrical engineering sector." }, 
+
+     { "name": "K-FLEX", "sector": "Building Material & Industrial", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "K-FLEX is a manufacturing company specializing in the production of thermal and acoustic insulation materials." }, 
+
+     { "name": "Körber Tissue", "sector": "Industrial & Machinery", "location": "Lucca, Toscana, Italy", "revenue": "$10M to $50M", "description": "Körber Tissue provides conversion and packaging solutions for the tissue industry." }, 
+
+     { "name": "Arena Italia", "sector": "Apparel & Fashion", "location": "Tolentino, Marche, Italy", "revenue": "$10M to $50M", "description": "Arena Italia manufactures racing, training, and leisure swimwear." }, 
+
+     { "name": "Tecnimont", "sector": "Chemical & Industrial", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Tecnimont provides engineering, construction, and project management services for the chemical and petrochemical industries." }, 
+
+     { "name": "Cobo Group", "sector": "Automotive & Industrial", "location": "Brescia, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Cobo Group designs, develops, and supplies integrated systems for off-highway vehicles." }, 
+
+     { "name": "Iseo", "sector": "Assistive Technology & Electronics", "location": "Pisogne, Lombardia, Italy", "revenue": "$10M to $50M", "description": "ISEO is a manufacturing company that supplies a wide range of security solutions, including locks, cylinders, and access control systems." }, 
+
+     { "name": "Serioplast", "sector": "Fast-Moving Consumer Goods & Manufacturing", "location": "Seriate, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Serioplast is a plastic manufacturing company that produces and supplies plastic packaging for various industries." }, 
+
+     { "name": "BSP Pharmaceuticals", "sector": "Clinical Trials & Health Care", "location": "Latina, Lazio, Italy", "revenue": "$10M to $50M", "description": "BSP Pharmaceuticals focuses on the formulation development and manufacturing of oncology drugs." }, 
+
+     { "name": "ENEA", "sector": "Environmental Engineering", "location": "Rome, Lazio, Italy", "revenue": "$10M to $50M", "description": "ENEA is the agency for new technologies, energy, and sustainable economic development." }, 
+
+     { "name": "Salvagnini", "sector": "Machinery Manufacturing", "location": "Verona, Veneto, Italy", "revenue": "$10M to $50M", "description": "Salvagnini provides innovative solutions in the field of sheet metal processing machinery." }, 
+
+     { "name": "Industrie Ipea", "sector": "Industrial Manufacturing", "location": "Varese, Lombardia, Italy", "revenue": "$10M to $50M", "description": "ILPEA INDUSTRIE they manufactures magnetic profiles, gaskets, and other industrial components." }, 
+
+     { "name": "SIT", "sector": "Industrial Engineering", "location": "Padua, Veneto, Italy", "revenue": "$10M to $50M", "description": "SIT is engaged in the manufacturing of heating and cooling systems, gas meters, and other industrial components." }, 
+
+     { "name": "SAPA", "sector": "Automotive & Industrial", "location": "Arpaia, Campania, Italy", "revenue": "$10M to $50M", "description": "SAPA is a manufacturing company that produces aluminum components for the automotive industry." }, 
+
+     { "name": "Encinc", "sector": "Industrial Manufacturing", "location": "Corsico, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Encinc manufactures and distributes glass products and other building materials." }, 
+
+     { "name": "iGuzzini", "sector": "Electronics & Lighting", "location": "Recanati, Marche, Italy", "revenue": "$10M to $50M", "description": "iGuzzini designs and manufactures innovative indoor and outdoor lighting solutions." }, 
+
+     { "name": "Avio SpA", "sector": "Manufacturing", "location": "Colleferro, Lazio, Italy", "revenue": "$10M to $50M", "description": "Avio SpA is a designer, manufacturer and servicer of space propulsion systems." }, 
+
+     { "name": "Gammastamp", "sector": "Automotive & Industrial", "location": "Bianzi, Piemonte, Italy", "revenue": "$10M to $50M", "description": "Gammastamp specializes in manufacturing and supplying stamped and welded components for the automotive industry." }, 
+
+     { "name": "Calvi Holding", "sector": "Industrial Manufacturing", "location": "Agrate Brianza, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Calvi Holding is a manufacturing company that produces and distributes steel profiles and components." }, 
+
+     { "name": "Sigit", "sector": "Automotive & Manufacturing", "location": "San Giustino, Umbria, Italy", "revenue": "$10M to $50M", "description": "Sigit is a manufacturer of automotive and appliance components." }, 
+
+     { "name": "Morellato", "sector": "Fashion & Jewelry", "location": "Veneto, Italy", "revenue": "$10M to $50M", "description": "Morellato is a manufacturing company that designs a wide range of jewelry and watches." }, 
+
+     { "name": "Luccini RS", "sector": "Industrial Engineering", "location": "Brescia, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Luccini RS is a steel manufacturing group which offers a wide range of steel products." }, 
+
+     { "name": "3R Engineering", "sector": "Industrial Automation", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "3R engineering manufacture, design, create, automate and install industrial plants." }, 
+
+     { "name": "Renco", "sector": "Construction & Consulting", "location": "Pesaro, Marche, Italy", "revenue": "$10M to $50M", "description": "Renco offers business solutions like consulting services, engineering, and project management." }, 
+
+     { "name": "TELEMA", "sector": "Industrial Design & Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "TELEMA is a manufacturing company that produces and distributes electrical components and systems." }, 
+
+     { "name": "Raicam", "sector": "Automotive & Manufacturing", "location": "Manoppello, Abruzzi, Italy", "revenue": "$10M to $50M", "description": "Raicam specializes in the design and manufacturing of braking systems and clutches for the automotive industry." }, 
+
+     { "name": "Olimpias Group", "sector": "Manufacturing & Supply Chain", "location": "Ponzano, Veneto, Italy", "revenue": "$10M to $50M", "description": "Olimpias Group is a textile manufacturing company that produces and distributes fabrics and garments." }, 
+
+     { "name": "Lippert Europe", "sector": "Automotive & Manufacturing", "location": "San Casciano Val Di Pesa, Toscana, Italy", "revenue": "$10M to $50M", "description": "Lippert Europe supplies engineered components for the RV, marine, and automotive industries." }, 
+
+     { "name": "AFV Beltrame Group", "sector": "B2B & Commercial", "location": "Vicenza, Veneto, Italy", "revenue": "$10M to $50M", "description": "AFV Beltrame Group is a steel company that produces and distributes steel products." }, 
+
+     { "name": "Luccini RS", "sector": "Industrial Machinery", "location": "Lovere, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Luccini Swedish AB manufactures forged steel products." }, 
+
+     { "name": "Sei Toscana", "sector": "Environmental Engineering", "location": "Siena, Toscana, Italy", "revenue": "$10M to $50M", "description": "Sei Toscana is an integrated ecological service provider that manages waste collection and disposal." }, 
+
+     { "name": "IVS Group", "sector": "Catering & Food and Beverage", "location": "Seriate, Lombardia, Italy", "revenue": "$10M to $50M", "description": "IVS Group is a food service operator that specializes in the vending machine business." }, 
+
+     { "name": "Lombardini", "sector": "Manufacturing & Plastics", "location": "Corbetta, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Lombardini designs and manufactures plastic profiles for various industries." }, 
+
+     { "name": "Salvagnini Italia", "sector": "E-Commerce & Electronics", "location": "Vicenza, Veneto, Italy", "revenue": "$10M to $50M", "description": "Salvagnini Italia deals with the design, build and sale of panel bending machines." }, 
+
+     { "name": "EL.EN. Group", "sector": "Health Care & Medical Devices", "location": "Calenzano, Toscana, Italy", "revenue": "$10M to $50M", "description": "EL.EN. Group manufactures laser products providing industrial, medical, and aesthetic applications." }, 
+
+     { "name": "Bialetti Industrie", "sector": "Coffee & Food and Beverage", "location": "Brescia, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Bialetti Industrie is a manufacturer and seller of coffee makers, cookware, and small household appliances." }, 
+
+     { "name": "Sabaf Group", "sector": "Manufacturing", "location": "Brescia, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Sabaf Group electronics manufacturing company which manufactures electronic components." }, 
+
+     { "name": "Antonella Sposa", "sector": "Manufacturing & Textiles", "location": "Rome, Lazio, Italy", "revenue": "$10M to $50M", "description": "Antonella Sposa is a production company that designs and manufactures wedding dresses." }, 
+
+     { "name": "Dusty", "sector": "Environmental Engineering", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Dusty is an environmental service firm that offers waste management and recycling solutions." }, 
+
+     { "name": "Sicurezza e Ambiente", "sector": "Environmental Consulting", "location": "Rome, Lazio, Italy", "revenue": "$10M to $50M", "description": "Sicurezza e Ambiente is an environmental consulting firm that provides services for workplace safety and environmental protection." }, 
+
+     { "name": "Zeis Excelsa", "sector": "Fashion & Manufacturing", "location": "Montegranaro, Marche, Italy", "revenue": "$10M to $50M", "description": "Zeis Excelsa is a specialized footwear manufacturer from the Marche region of Italy." }, 
+
+     { "name": "Mecaer Aviation Group", "sector": "Aerospace & Industrial", "location": "Borgomanero, Piemonte, Italy", "revenue": "$10M to $50M", "description": "Mecaer Aviation Group is a leading international provider of landing gear, actuation, and other aerospace components." }, 
+
+     { "name": "Lumson", "sector": "Cosmetics & Manufacturing", "location": "Caprgnanica, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Lumson is a leading company in Europe in development, production, and decoration of primary packaging for cosmetics." }, 
+
+     { "name": "SECO", "sector": "Computer & Information Technology", "location": "Arezzo, Toscana, Italy", "revenue": "$10M to $50M", "description": "SECO offers its clients a complete service and product range from embedded to edge computing." }, 
+
+     { "name": "Limonta", "sector": "Fashion & Manufacturing", "location": "Lecco, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Limonta is an industrial group that focuses on the fields of textiles, coatings, and artificial leather." }, 
+
+     { "name": "FAVINI S.R.L.", "sector": "Manufacturing", "location": "Rossano Veneto, Italy", "revenue": "$10M to $50M", "description": "Favini is an Italian company with a long history in paper and cardboard manufacturing." }, 
+
+     { "name": "Veneta Cucine", "sector": "Furniture & Local", "location": "Biancade, Veneto, Italy", "revenue": "$10M to $50M", "description": "Veneta Cucine designs, manufactures, and sells kitchens." }, 
+
+     { "name": "Comacem", "sector": "Construction & Manufacturing", "location": "Giugliano, Emilia-Romagna, Italy", "revenue": "$10M to $50M", "description": "Comacem is a manufacturer of cement and concrete." }, 
+
+     { "name": "TESMEC", "sector": "Machinery Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "TESMEC is a machinery company offering railway and other industrial equipment." }, 
+
+     { "name": "DOMPE", "sector": "Biotechnology & Health Care", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "DOMPE is a pharmaceutical company that is committed to the research and development of new drugs." }, 
+
+     { "name": "Dainese", "sector": "AgTech & Manufacturing", "location": "Malvern, Trentino-Alto Adige, Italy", "revenue": "$10M to $50M", "description": "Dainese Group is a global leader in the design and distribution of protective gear for sports." }, 
+
+     { "name": "COROB", "sector": "Chemical & Industrial", "location": "San Felice Del Benaco, Lombardia, Italy", "revenue": "$10M to $50M", "description": "COROB manufactures tinting and dispensing equipment." }, 
+
+     { "name": "Indena SpA", "sector": "Biotechnology & Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Indena SpA is a world's leading company in the identification, development, and production of active ingredients derived from plants." }, 
+
+     { "name": "DIPHARMA", "sector": "Health Care & Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$10M to $50M", "description": "DIPHARMA is a pharmaceutical company that manufactures and distributes active pharmaceutical ingredients." }, 
+
+     { "name": "Piaggio Aerospace", "sector": "Aerospace & Consulting", "location": "Villanova D'albenga, Italy", "revenue": "$10M to $50M", "description": "Piaggio Aerospace specializes in aircraft design, manufacturing, and maintenance." }, 
+
+     { "name": "TwinSet SpA", "sector": "Apparel & Fashion", "location": "Modena, Emilia-Romagna, Italy", "revenue": "$10M to $50M", "description": "TwinSet manufactures and distributes women's clothing and accessories." }, 
+
+     { "name": "Carton Pack", "sector": "Manufacturing & Packaging", "location": "Remo, Lazio, Italy", "revenue": "$10M to $50M", "description": "Carton Pack, the leader in packaging solutions for the food and beverage industry." }, 
+
+     { "name": "Agustawestland", "sector": "Aerospace & Manufacturing", "location": "Vergiate, Lombardia, Italy", "revenue": "$10M to $50M", "description": "Agustawestland designs and manufactures helicopters for military and civil applications." }, 
+
+     { "name": "Maschio Gaspardo", "sector": "Agriculture & Automotive", "location": "Campodarsego, Veneto, Italy", "revenue": "$10M to $50M", "description": "Maschio Gaspardo produces agricultural machinery." }, 
+
+     { "name": "Boggi Milano", "sector": "Fashion & Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Boggi Milano is a manufacturer and retailer of fashion goods." }, 
+
+     { "name": "MTD Medical Technology and Devices", "sector": "Manufacturing & Medical Devices", "location": "Bernate Ticino, Piemonte, Italy", "revenue": "$100M to $500M", "description": "MTD Medical Technology and Devices is a designer and manufacturer of medical devices." }, 
+
+     { "name": "Guala Dispensing", "sector": "Building Material & Packaging", "location": "Alessandria, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Guala Dispensing manufactures plastic trigger sprayers and dispensers." }, 
+
+     { "name": "Rivacold", "sector": "Facility Management & Heating", "location": "Marche, Veneto, Italy", "revenue": "$100M to $500M", "description": "Rivacold manufactures and supplies condensing units, hermetic compressors, and other refrigeration components." }, 
+
+     { "name": "ICA", "sector": "Chemical & Furniture", "location": "Civitanova, Marche, Italy", "revenue": "$100M to $500M", "description": "ICA provides woodcoatings and glass paint solutions." }, 
+
+     { "name": "MTA SpA (MTA Advanced Automotive Solutions)", "sector": "Industrial Manufacturing", "location": "Codogno, Lombardia, Italy", "revenue": "$100M to $500M", "description": "MTA SpA (MTA Advanced Automotive Solutions) is a manufacturer of electronic and electromechanical components for the automotive industry." }, 
+
+     { "name": "Elettronica", "sector": "Electronics & Manufacturing", "location": "Rome, Lazio, Italy", "revenue": "$100M to $500M", "description": "Elettronica designs, develops, and produces electronic warfare systems." }, 
+
+     { "name": "Fiocchi", "sector": "Manufacturing & Military", "location": "Lecco, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Fiocchi specializes in the manufacture and production of small-caliber ammunition." }, 
+
+     { "name": "EBARA", "sector": "Industrial & Industrial Manufacturing", "location": "Vicenza, Veneto, Italy", "revenue": "$100M to $500M", "description": "EBARA is an industrial manufacturing company that produces pumps, compressors, and other fluid machinery." }, 
+
+     { "name": "Scuderia AlphaTauri", "sector": "Automotive & eSports", "location": "Faenza, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Scuderia AlphaTauri designs and manufactures state-of-the-art racing cars." }, 
+
+     { "name": "Cardiologico Monzino", "sector": "Biotechnology & Health Care", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Cardiologico Monzino is a cardiological hospital that provides medical care and research services." }, 
+
+     { "name": "CIFA", "sector": "Machinery Manufacturing", "location": "Senago, Lombardia, Italy", "revenue": "$100M to $500M", "description": "CIFA designs and manufactures truck pumps, truck mixers, and other concrete machinery." }, 
+
+     { "name": "Clivet SpA", "sector": "Heating, Ventilation, and Air Conditioning", "location": "Feltre, Veneto, Italy", "revenue": "$100M to $500M", "description": "Clivet SpA is an Italian maker of heat pumps and air conditioning systems." }, 
+
+     { "name": "Thermowatt", "sector": "Commercial & Electronics", "location": "Arcevia, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Thermowatt manufactures and supplies heating control systems and components for various applications." }, 
+
+     { "name": "Cesare Fiorucci", "sector": "Consumer Goods & Food", "location": "Pomezia, Lazio, Italy", "revenue": "$100M to $500M", "description": "Cesare Fiorucci is a leading Italian producer and marketer of cured meats." }, 
+
+     { "name": "Industrie Saleri Italo", "sector": "Automotive & Industrial", "location": "Brescia, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Industrie Saleri Italo designs and manufactures electric water pumps and other engine components for the automotive industry." }, 
+
+     { "name": "Fameccanica.Data SpA", "sector": "Machinery Manufacturing", "location": "Schiavi Di Abruzzo, Abruzzi, Italy", "revenue": "$100M to $500M", "description": "Fameccanica.Data SpA operates in automation and robotics for the production of disposable hygiene products." }, 
+
+     { "name": "Vescovini Group", "sector": "Logistics & Machinery", "location": "Reggio Nell Emilia, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Vescovini Group is a machinery manufacturing company that produces and supplies industrial machinery." }, 
+
+     { "name": "Ducati Energia", "sector": "Electronics & Energy", "location": "Bologna, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Ducati Energia manufactures electronic components like capacitors, power factor correction systems, and energy meters." }, 
+
+     { "name": "Caffè Trombetta", "sector": "Food and Beverage & Food", "location": "Rome, Lazio, Italy", "revenue": "$100M to $500M", "description": "Caffè Trombetta is a beverage company that processes coffee beans and produces roasted coffee." }, 
+
+     { "name": "Fatal", "sector": "Audio & Manufacturing", "location": "San Donato Milanese, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Fatal designs and manufactures loudspeakers for various applications." }, 
+
+     { "name": "JV International", "sector": "Consumer Goods & Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "JV International is a footwear manufacturer that produces and distributes shoes and other fashion accessories." }, 
+
+     { "name": "Levoni", "sector": "Food and Beverage & Manufacturing", "location": "Castellucchio, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Levoni is a producer company of cured meats." }, 
+
+     { "name": "Besana", "sector": "Consumer Goods & Food", "location": "San Gennaro Vesuviano, Campania, Italy", "revenue": "$100M to $500M", "description": "Besana is a company that provides food products, including nuts, dried fruits, and seeds." }, 
+
+     { "name": "Portovesme", "sector": "Chemical & Manufacturing", "location": "Portoscuso, Sardegna, Italy", "revenue": "$100M to $500M", "description": "Portovesme is a chemical company that produces and distributes zinc, lead, and other non-ferrous metals." }, 
+
+     { "name": "Dipharmia Francis Srl", "sector": "Manufacturing & Pharmaceutical", "location": "Baranzate, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Dipharmia is a European manufacturer of Active Pharmaceutical Ingredients (APIs)." }, 
+
+     { "name": "LTC Group", "sector": "Industrial Manufacturing", "location": "Lagnano, Lombardia, Italy", "revenue": "$100M to $500M", "description": "LTC Group specializes in the production of magnetic cores." }, 
+
+     { "name": "Scarpa", "sector": "Consumer Goods & Manufacturing", "location": "Treviso, Veneto, Italy", "revenue": "$100M to $500M", "description": "Scarpa is a manufacturing company that produces mountaineering, climbing, and hiking footwear." }, 
+
+     { "name": "Giacomini", "sector": "Building Material & Hardware", "location": "San Maurizio D'opaglio, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Giacomini manufactures systems and components used in heating, cooling, and sanitary applications." }, 
+
+     { "name": "Breton", "sector": "Machinery Manufacturing", "location": "Castello Di Godego, Veneto, Italy", "revenue": "$100M to $500M", "description": "Breton is a manufacturing company that provides machines and plants for processing natural and engineered stone, ceramics, and metal." }, 
+
+     { "name": "Annovi Reverberi", "sector": "Industrial Engineering", "location": "Modena, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Annovi Reverberi is a manufacturer of diaphragm pumps, high-pressure washers, and other cleaning equipment." }, 
+
+     { "name": "Euroricambi Group", "sector": "Automotive & Commercial Vehicles", "location": "Bologna, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Euroricambi Group provides a comprehensive range of spare parts for trucks, buses, and commercial vehicles." }, 
+
+     { "name": "Vignoni Calze & Collant", "sector": "Fashion & Manufacturing", "location": "Castel Goffredo, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Vignoni Calze & Collant is a textile company that offers hosiery products." }, 
+
+     { "name": "SAIB", "sector": "Furniture & Manufacturing", "location": "Fossamerlo, Marche, Italy", "revenue": "$100M to $500M", "description": "SAIB is a woodworking company that sells raw and finished wood products." }, 
+
+     { "name": "Amodio Group", "sector": "Food and Beverage & Food", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Amodio Group is a food manufacturing company that produces and distributes dairy products." }, 
+
+     { "name": "AC Boilers", "sector": "Industrial & Manufacturing", "location": "Gallarate, Lombardia, Italy", "revenue": "$100M to $500M", "description": "AC Boilers is an original technology boiler manufacturer." }, 
+
+     { "name": "Athena", "sector": "Automotive & Commercial Vehicles", "location": "Vicenza, Veneto, Italy", "revenue": "$100M to $500M", "description": "Athena provides products for the motorcycle, car, electric bicycle, and industrial sectors." }, 
+
+     { "name": "ICA Group", "sector": "Consulting & Manufacturing", "location": "Marche, Veneto, Italy", "revenue": "$100M to $500M", "description": "ICA Group is an industrial engineering company that provides solutions for the woodworking industry." }, 
+
+     { "name": "Ruck & Maul", "sector": "Consumer Goods & Fashion", "location": "Meolo, Veneto, Italy", "revenue": "$100M to $500M", "description": "Ruck & Maul designs, produces, and supplies sportswear." }, 
+
+     { "name": "Carriere Carrara", "sector": "Manufacturing & Packaging", "location": "Toscana, Italy", "revenue": "$100M to $500M", "description": "Carriere Carrara produces disposable tissue that is pure cellulose." }, 
+
+     { "name": "Metelli Group", "sector": "Automotive & Industrial", "location": "Cologne, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Metelli Group is an automotive equipment manufacturing company that produces and distributes spare parts for vehicles." }, 
+
+     { "name": "SUPERBETON", "sector": "Construction & Industrial", "location": "Treviso, Veneto, Italy", "revenue": "$100M to $500M", "description": "SuperBeton specializes in producing bituminous mixtures and other construction materials." }, 
+
+     { "name": "IMER International", "sector": "Construction & Machinery", "location": "Poggibonsi, Toscana, Italy", "revenue": "$100M to $500M", "description": "IMER International is a manufacturing company that manufactures and supplies construction machinery." }, 
+
+     { "name": "Metal Work", "sector": "Industrial & Machinery", "location": "Brescia, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Metal Work produces pneumatic components for industrial automation." }, 
+
+     { "name": "Argomm Group", "sector": "Manufacturing & Plastics", "location": "Villongo Sant'alessandro, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Argomm Group is a plastic manufacturer that designs and produces plastic components for various industries." }, 
+
+     { "name": "Gefran", "sector": "Industrial Automation & Manufacturing", "location": "Brescia, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Gefran is synonymous with quality and expertise in the design and manufacture of sensors, components, and motion control systems." }, 
+
+     { "name": "BAXI Italia", "sector": "Electronics & Manufacturing", "location": "Bassano Del Grappa, Veneto, Italy", "revenue": "$100M to $500M", "description": "Baxi Italia designs and manufactures a broad range of heating and cooling systems." }, 
+
+     { "name": "Tollegno 1900", "sector": "Manufacturing & Sales", "location": "Tollegno, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Tollegno 1900 is a textile company that produces yarns and fabrics." }, 
+
+     { "name": "Istituto Nazionale Tumori", "sector": "Health Care & Hospital", "location": "Naples, Campania, Italy", "revenue": "$100M to $500M", "description": "Istituto Nazionale Tumori is a cancer care center that offers medical care and research services." }, 
+
+     { "name": "Scavolini", "sector": "Furniture & Home Improvement", "location": "Montelabbate, Marche, Italy", "revenue": "$100M to $500M", "description": "Scavolini is a producer of modular kitchen and bathroom furniture." }, 
+
+     { "name": "La Cimbali", "sector": "Industrial & Industrial Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "La Cimbali is a manufacturing brand that manufactures and distributes professional espresso and cappuccino machines." }, 
+
+     { "name": "Giessegi", "sector": "Furniture & Industrial", "location": "Appignano, Marche, Italy", "revenue": "$100M to $500M", "description": "Giessegi is a furniture company that specializes in the production of wardrobes, beds, and other furniture." }, 
+
+     { "name": "Rotolito", "sector": "B2C & Email & Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Rotolito is a commercial and publishing printing industry." }, 
+
+     { "name": "Scame Parre", "sector": "Electric Vehicle & Electronics", "location": "Parre, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Scame Parre is a manufacturing firm that offers charging solutions for electric vehicles." }, 
+
+     { "name": "Ente Gestione Energia e Ambiente", "sector": "Environmental Engineering", "location": "Alba, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Ente Gestione Energia e Ambiente is an electric utility company that provides electricity and gas services." }, 
+
+     { "name": "IEMCA", "sector": "Industrial Engineering & Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "IEMCA designs and manufactures automatic bar feeders since 1961." }, 
+
+     { "name": "Industrie Celtex", "sector": "Consumer Goods & Manufacturing", "location": "Lucca, Toscana, Italy", "revenue": "$100M to $500M", "description": "Industrie Celtex manufactures and produces tissue paper, non-woven fabrics, and other hygiene products." }, 
+
+     { "name": "PMP", "sector": "Construction & Industrial", "location": "Coseano, Friuli-Venezia Giulia, Italy", "revenue": "$100M to $500M", "description": "PMP manufactures technology-enabled equipment for various industries." }, 
+
+     { "name": "Petrovalves", "sector": "Industrial Manufacturing", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Petrovalves manufactures valves and actuators for the oil and gas industry." }, 
+
+     { "name": "Global Display Solutions", "sector": "Electronics & Industrial", "location": "Cornedo Vicentino, Veneto, Italy", "revenue": "$100M to $500M", "description": "Global Display Solutions provides electronics design and manufacturing services." }, 
+
+     { "name": "DKC Group", "sector": "Electrical Distribution & Manufacturing", "location": "Bellinzago Novarese, Piemonte, Italy", "revenue": "$100M to $500M", "description": "DKC Group is a manufacturing company specializing in IT infrastructure solutions." }, 
+
+     { "name": "ABK", "sector": "Building Material & Construction", "location": "Finale Emilia, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "ABK manufactures and designs a wide range of floors, walls and other ceramic products." }, 
+
+     { "name": "EPLAN", "sector": "Industrial Engineering", "location": "Pioltello, Lombardia, Italy", "revenue": "$100M to $500M", "description": "EPLAN is an IT firm that designs and develops software solutions for electrical engineering and automation." }, 
+
+     { "name": "Patelec", "sector": "Electronics & Industrial", "location": "Monferrato, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Patelec specializes in manufacturing a wide range of cables and wires for various industries." }, 
+
+     { "name": "IMMERGAS", "sector": "Industrial & Machinery", "location": "Brescello, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "IMMERGAS manufactures domestic heating appliances, including boilers, heat pumps, and solar systems." }, 
+
+     { "name": "Giomi Group", "sector": "Health Diagnostics & Medical", "location": "Rome, Lazio, Italy", "revenue": "$100M to $500M", "description": "Giomi Group specializes in providing telemedicine services and remote patient monitoring solutions." }, 
+
+     { "name": "P&P", "sector": "Environmental Engineering", "location": "Moncalieri, Piemonte, Italy", "revenue": "$100M to $500M", "description": "P&P is a facility management and logistics service company." }, 
+
+     { "name": "Ceam", "sector": "Construction & Industrial", "location": "Bologna, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Ceam is a manufacturing company that specializes in the production of metal components." }, 
+
+     { "name": "SMI", "sector": "Food and Beverage & Industrial", "location": "San Giovanni Bianco, Lombardia, Italy", "revenue": "$100M to $500M", "description": "SMI produces bottling plants and packaging machines for the food and beverage industry." }, 
+
+     { "name": "ISA", "sector": "Commercial & Furniture", "location": "Bastia, Umbria, Italy", "revenue": "$100M to $500M", "description": "ISA is a commercial and industrial equipment supplier." }, 
+
+     { "name": "Minetti", "sector": "Industrial Manufacturing", "location": "Bergamo, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Minetti industrial supplies and maintenance, repair, and overhaul services." }, 
+
+     { "name": "DEMA", "sector": "Aerospace & Manufacturing", "location": "Somma Vesuviana, Campania, Italy", "revenue": "$100M to $500M", "description": "DEMA is a supplier of aero structures by integrating advanced technologies." }, 
+
+     { "name": "Seri Industrial", "sector": "Electrical Distribution & Manufacturing", "location": "San Potito Sannitico, Campania, Italy", "revenue": "$100M to $500M", "description": "Seri Industrial is in the electrical accumulator industry." }, 
+
+     { "name": "Manni Group", "sector": "Energy & Industrial", "location": "Verona, Veneto, Italy", "revenue": "$100M to $500M", "description": "Manni Group is an industrial organization that manufactures and supplies insulated panels, metal sheets, and other building materials." }, 
+
+     { "name": "Galatea BioTech", "sector": "Biotechnology & Chemical", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Galatea BioTech is a manufacturer of bioplastics and other biodegradable materials." }, 
+
+     { "name": "Beghelli", "sector": "Electronics & Energy", "location": "Bologna, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Beghelli manufactures lighting, solar, emergency luminaires, and other electronic products." }, 
+
+     { "name": "Associazione Ingegneri per l'Ambiente e il Territorio", "sector": "Association & Environmental", "location": "Milan, Lombardia, Italy", "revenue": "$100M to $500M", "description": "AIAT is an association for environmental and territorial engineers." }, 
+
+     { "name": "Giesse", "sector": "Building Material & Industrial", "location": "Budrio, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Giesse SpA manufactures hardware and accessories for the furniture industry." }, 
+
+     { "name": "Coster Group", "sector": "Machinery Manufacturing", "location": "Trento, Trentino-Alto Adige, Italy", "revenue": "$100M to $500M", "description": "Coster Group is a provider of spray packaging solutions and aerosol valves." }, 
+
+     { "name": "Lonati", "sector": "Commercial & Machinery", "location": "Brescia, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Lonati specializes in circular knitting equipment for the hosiery industry." }, 
+
+     { "name": "Siti-B&T", "sector": "Energy & Industrial", "location": "Formigine, Emilia-Romagna, Italy", "revenue": "$100M to $500M", "description": "Siti-B&T integrates and provides complete solutions for the ceramic industry." }, 
+
+     { "name": "Glass Group", "sector": "Building Material & Industrial", "location": "Levata, Piemonte, Italy", "revenue": "$100M to $500M", "description": "Glass Group is a group of glass manufacturing companies that produces and distributes glass products." }, 
+
+     { "name": "Moto Factory Italia", "sector": "Automotive & Manufacturing", "location": "Lomagna, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Moto Factory Italia is an automotive industry that manufactures and distributes motorcycles." }, 
+
+     { "name": "SVAS Biosana", "sector": "Manufacturing & Marketing", "location": "Naples, Campania, Italy", "revenue": "$100M to $500M", "description": "SVAS BIOSANA is the leading company of Svas Group." }, 
+
+     { "name": "Toscotec", "sector": "Machinery Manufacturing", "location": "Marilia, Toscana, Italy", "revenue": "$100M to $500M", "description": "Toscotec designs and manufactures machines and systems for the paper and tissue industry." }, 
+
+     { "name": "Persico", "sector": "Industrial Manufacturing", "location": "Nembro, Lombardia, Italy", "revenue": "$100M to $500M", "description": "Persico specializes in automotive, industrial, and marine sectors." }, 
+
+     { "name": "Inpeco", "sector": "Industrial Automation & Medical", "location": "Novazzano, Ticino, Switzerland", "revenue": "$100M to $500M", "description": "Inpeco manufactures products to make laboratory automation more efficient." }, 
+
+     { "name": "Leister Technologies", "sector": "Consulting & Industrial Manufacturing", "location": "Sarnen, Obwalden, Switzerland", "revenue": "$100M to $500M", "description": "Leister Technologies offers heat guns, laser systems, infrared heaters, and other industrial tools." }, 
+
+     { "name": "SKAN AG", "sector": "Machinery Manufacturing", "location": "Allschwil, Basel-Landschaft, Switzerland", "revenue": "$100M to $500M", "description": "SKAN AG is one of the pioneer companies in the field of cleanroom and isolator technology for aseptic pharmaceutical production." }, 
+
+     { "name": "MedGate", "sector": "Health Care & Medical", "location": "Basel, Basel-Stadt, Switzerland", "revenue": "$100M to $500M", "description": "Medgate is a leading provider of integrated out-patient care in Switzerland, offering telemedical consultations and services." }, 
+
+     { "name": "Ferag", "sector": "E-Commerce & Food and Beverage", "location": "Hinwil, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Ferag offers e-commerce & retail, fashion, healthcare, and other packaging solutions." }, 
+
+     { "name": "Speno International", "sector": "Construction & Manufacturing", "location": "Meyrin, Geneve, Switzerland", "revenue": "$100M to $500M", "description": "Speno International designs and manufactures machines for railway maintenance." }, 
+
+     { "name": "Kernkraftwerk Gösgen-Däniken", "sector": "Energy & Nuclear Power Generation", "location": "Däniken, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "Kernkraftwerk Gösgen-Däniken AG operates aims to generate electricity and heat." }, 
+
+     { "name": "Odlo Sports Group", "sector": "Manufacturing & Sports", "location": "Hünenberg, Zug, Switzerland", "revenue": "$100M to $500M", "description": "Odlo Sports Group is a designer, manufacturer and distributor of sports apparel." }, 
+
+     { "name": "International Luxury", "sector": "Consumer Goods & Eyewear", "location": "Möhlin, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "International Luxury operates a portfolio of internationally renowned eyewear brands." }, 
+
+     { "name": "Weidmann Electrical Technology", "sector": "Energy Management & Manufacturing", "location": "Rapperswil, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Weidmann Electrical Technology provides design, manufacturing, and marketing of electrical insulation materials and components." }, 
+
+     { "name": "Schelling", "sector": "Digital Media & Modern Retail", "location": "Rupperswil, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "Schelling manufactures packaging and displays made of paperboard and corrugated board." }, 
+
+     { "name": "Medmix", "sector": "Health Care & Medical", "location": "Baar, Zug, Switzerland", "revenue": "$100M to $500M", "description": "Medmix produces and supplies medical equipment, including dispensers, syringes, and other devices." }, 
+
+     { "name": "Jakob Müller", "sector": "Machinery Manufacturing", "location": "Frick, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "Jakob Müller develops machine technology and systems for narrow fabrics and technical textiles." }, 
+
+     { "name": "La Prairie Group", "sector": "Consumer Goods & Skincare", "location": "Volketswil, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "La Prairie Group manufactures skincare products." }, 
+
+     { "name": "Süd-Chemie", "sector": "Chemical & Manufacturing", "location": "Muttenz, Basel-Landschaft, Switzerland", "revenue": "$100M to $500M", "description": "Süd-Chemie is a global specialty chemicals company." }, 
+
+     { "name": "Lemo", "sector": "Electronics & Industrial", "location": "Écublens, Vaud, Switzerland", "revenue": "$100M to $500M", "description": "Lemo designs and manufactures custom-made connectors for various applications." }, 
+
+     { "name": "Angst and Pfister", "sector": "Industrial Manufacturing", "location": "Zurich, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Angst and Pfister is a supplier of industrial components, including seals, hoses, and other products." }, 
+
+     { "name": "Elsa Group", "sector": "Dairy & Food and Beverage", "location": "Fribourg, Fribourg, Switzerland", "revenue": "$100M to $500M", "description": "Elsa Group specializes in the production and packaging of dairy products." }, 
+
+     { "name": "Connet Holding", "sector": "Electronics & Machinery", "location": "Flamatt, Fribourg, Switzerland", "revenue": "$100M to $500M", "description": "Connet is a technology firm that produces components and systems for various industries." }, 
+
+     { "name": "Gruner SA", "sector": "Architecture & Civil Engineering", "location": "Basel, Basel-Stadt, Switzerland", "revenue": "$100M to $500M", "description": "Gruner SA is an engineering and consulting firm." }, 
+
+     { "name": "Vigier Holding", "sector": "Building Material & Construction", "location": "Luterbach, Solothurn, Switzerland", "revenue": "$100M to $500M", "description": "Vigier Holding manufactures and distributes building materials and ready-mixed concrete." }, 
+
+     { "name": "HESS", "sector": "Automotive & Manufacturing", "location": "Solothurn, Solothurn, Switzerland", "revenue": "$100M to $500M", "description": "HESS is a vehicle manufacturer that specializes in public transportation vehicles like buses and trolleybuses." }, 
+
+     { "name": "Precious Woods", "sector": "Agriculture & Construction", "location": "Baar, Zug, Switzerland", "revenue": "$100M to $500M", "description": "Precious Woods is a wood processing company that produces sustainable tropical timber." }, 
+
+     { "name": "Airn G AG", "sector": "Environmental Consulting", "location": "Steinhausen, Zug, Switzerland", "revenue": "$100M to $500M", "description": "Airn G AG is a company that engages in the development and implementation of environmental projects." }, 
+
+     { "name": "Novametal Group", "sector": "Industrial Manufacturing", "location": "Lugano, Ticino, Switzerland", "revenue": "$100M to $500M", "description": "Novametal Group is a manufacturer of stainless steel wire and other metal products." }, 
+
+     { "name": "WEDPLAS", "sector": "Manufacturing & Plastics", "location": "Rüti, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "WEDPLAS is a manufacturer of plastic components." }, 
+
+     { "name": "Alu Menziken Group", "sector": "Hardware & Industrial", "location": "Reinach, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "Alu Menziken Group is a metal processing company that produces aluminum profiles and components." }, 
+
+     { "name": "Sateco Group", "sector": "Consumer Goods & Electronics", "location": "Fällanden, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Sateco Group is a manufacturer of precision molded silicone parts." }, 
+
+     { "name": "Jack Beck", "sector": "Boating & Ports and Harbors", "location": "Fribourg, Fribourg, Switzerland", "revenue": "$100M to $500M", "description": "Jack Beck specializes in boat repair, overhaul, and maintenance services." }, 
+
+     { "name": "Clinique de La Source", "sector": "Child Care & Health Care", "location": "Lausanne, Vaud, Switzerland", "revenue": "$100M to $500M", "description": "Clinique de La Source provides cardiology, neurology, plastic surgery, and other medical services." }, 
+
+     { "name": "KUK Group", "sector": "Automotive & Consumer Electronics", "location": "Appenzell, Innerrhoden, Switzerland", "revenue": "$100M to $500M", "description": "KUK Group manufactures and offers customer-specific coils and transformers." }, 
+
+     { "name": "CAMPackaging", "sector": "Industrial & Industrial Automation", "location": "Basel, Basel-Stadt, Switzerland", "revenue": "$100M to $500M", "description": "CAMPackaging is a machinery manufacturing company that produces packaging machines." }, 
+
+     { "name": "Huber Metall- und Stahlbau", "sector": "Industrial Manufacturing", "location": "Erlinsbach, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "Huber Metall- und Stahlbau AG offers steel and metal construction services." }, 
+
+     { "name": "Alpen Pharma", "sector": "Manufacturing & Medical", "location": "Bern, Bern, Switzerland", "revenue": "$100M to $500M", "description": "Alpen Pharma is a pharmaceutical manufacturer and distributor of medicines." }, 
+
+     { "name": "Kündig Pharma", "sector": "Manufacturing & Medical", "location": "Bad Ragaz, Sankt Gallen, Switzerland", "revenue": "$100M to $500M", "description": "Kündig Pharma manufactures and distributes pharmaceutical products." }, 
+
+     { "name": "Analip Metallbau & Analip Ba", "sector": "Construction & Industrial", "location": "Zurich, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Analip Metallbau & Analip Bauelmente is a metal construction company." }, 
+
+     { "name": "GSM Maschinenbau", "sector": "Industrial & Machinery Manufacturing", "location": "Eschenbach, Luzern, Switzerland", "revenue": "$100M to $500M", "description": "GSM Maschinenbau is a machinery manufacturing company that produces special machines for various industries." }, 
+
+     { "name": "Metalwaren", "sector": "Foundries & Lighting", "location": "Wängi, Thurgau, Switzerland", "revenue": "$100M to $500M", "description": "Metalwaren specializes in manufacturing and lighting solutions." }, 
+
+     { "name": "SAFICHEM GROUP", "sector": "Asset Management & Chemical", "location": "Zürich, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "SAFICHEM GROUP provides complex engineering solutions." }, 
+
+     { "name": "Fondation Polyval", "sector": "Business Development & Manufacturing", "location": "Lausanne, Vaud, Switzerland", "revenue": "$100M to $500M", "description": "Fondation Polyval focuses on manufacturing, inclusion, and services." }, 
+
+     { "name": "Micronas GmbH", "sector": "Electronics & Manufacturing", "location": "Zürich, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Micronas GmbH is a global semiconductor designer and manufacturer for automotive and industrial electronics." }, 
+
+     { "name": "Margreiter", "sector": "Fashion & Manufacturing", "location": "Appenzell, Innerrhoden, Switzerland", "revenue": "$100M to $500M", "description": "Margreiter is a manufacturer of traditional clothing, souvenirs, and gifts." }, 
+
+     { "name": "KGS Diamond Group", "sector": "Industrial Manufacturing", "location": "Châtel-saint-denis, Vaud, Switzerland", "revenue": "$100M to $500M", "description": "KGS Diamond Group specializes in manufacturing diamond tools for various industries." }, 
+
+     { "name": "OM Pharma", "sector": "Biopharma & Biotechnology", "location": "Meyrin, Geneve, Switzerland", "revenue": "$100M to $500M", "description": "OM Pharma is a global Geneva-based Biotech company." }, 
+
+     { "name": "Reishauer", "sector": "Automotive & Industrial", "location": "Wallisellen, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Reishauer specializes in automobile machines." }, 
+
+     { "name": "SIGA", "sector": "Construction & Consulting", "location": "Ruswil, Luzern, Switzerland", "revenue": "$100M to $500M", "description": "SIGA is a manufacturer of nontoxic adhesives, sealants, and tapes for building envelopes." }, 
+
+     { "name": "Collano", "sector": "Chemical & Customer Service", "location": "Sempach, Luzern, Switzerland", "revenue": "$100M to $500M", "description": "Collano develops technologies, solutions and products for adhesives and sealants." }, 
+
+     { "name": "PanGas", "sector": "Chemical Engineering & Industrial Gases", "location": "Dagmersellen, Luzern, Switzerland", "revenue": "$100M to $500M", "description": "PanGas is a producer and supplier of different gases and gas mixtures." }, 
+
+     { "name": "Perlen Packaging", "sector": "Manufacturing & Packaging", "location": "Perlen, Luzern, Switzerland", "revenue": "$100M to $500M", "description": "Perlen Packaging provides pharmaceutical packaging solutions." }, 
+
+     { "name": "Thermoplan", "sector": "Food and Beverage & Machinery", "location": "Weggis, Luzern, Switzerland", "revenue": "$100M to $500M", "description": "Thermoplan engages in the development of milk foaming, brewing, and coffee machines." }, 
+
+     { "name": "Thommen Furler Group", "sector": "Chemical & Industrial", "location": "Rüti, Bern, Switzerland", "revenue": "$100M to $500M", "description": "Thommen Furler Group is a distributor of industrial and specialty chemicals, lubricants, and other products." }, 
+
+     { "name": "Feller", "sector": "Consumer Electronics & Industrial", "location": "Horgen, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Feller is a residential application electrical switches and controls manufacturer." }, 
+
+     { "name": "Povry Schweiz AG", "sector": "Consulting & Energy", "location": "Zürich, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Povry is a consulting and engineering company that provides services for the energy, industry, and infrastructure sectors." }, 
+
+     { "name": "BMC Switzerland", "sector": "Manufacturing & Sports", "location": "Grenchen, Solothurn, Switzerland", "revenue": "$100M to $500M", "description": "BMC Switzerland is a premium, Swiss, bike brand employing around 120 people worldwide." }, 
+
+     { "name": "IGP Powder Coatings", "sector": "Industrial Engineering & Manufacturing", "location": "Wil, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "IGP Powder Coatings is a manufacturing company that specializes in powder coatings for various applications." }, 
+
+     { "name": "Schweizer Zucker", "sector": "Animal Feed & Food and Beverage", "location": "Frauenfeld, Thurgau, Switzerland", "revenue": "$100M to $500M", "description": "Schweizer Zucker manufactures products such as sugar, animal feed, and other agricultural products." }, 
+
+     { "name": "Robert Aebi", "sector": "Construction & Machinery", "location": "Regensdorf, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Robert Aebi supplies new and used construction machines, equipment, and accessories." }, 
+
+     { "name": "Brown&Sharpe TESA", "sector": "Industrial Manufacturing", "location": "Renens, Vaud, Switzerland", "revenue": "$100M to $500M", "description": "Brown&Sharpe TESA provides precision measuring instruments and solutions." }, 
+
+     { "name": "Brugg Cables", "sector": "Manufacturing", "location": "Brugg, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "Brugg Cables is a prominent cable producer in Switzerland and provides cabling systems for various applications." }, 
+
+     { "name": "R. Nussbaum", "sector": "Manufacturing & Product", "location": "Olten, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "R. Nussbaum produces and delivers an array of fittings and valves for the sanitary and heating industry." }, 
+
+     { "name": "BAUMANN Springs", "sector": "Industrial & Manufacturing", "location": "Eschenbach, Luzern, Switzerland", "revenue": "$100M to $500M", "description": "BAUMANN Springs is a manufacturer of precision springs and stampings." }, 
+
+     { "name": "Mikron", "sector": "Industrial Automation & Machinery", "location": "Biel, Bern, Switzerland", "revenue": "$100M to $500M", "description": "Mikron is the leading partner for high performance cutting tools, automotive components, and machining solutions." }, 
+
+     { "name": "Adval Tech Holding", "sector": "Automotive & Industrial", "location": "Niederwangen, Bern, Switzerland", "revenue": "$100M to $500M", "description": "Adval Tech Holding offers metal and plastic components for various industries." }, 
+
+     { "name": "Record Group", "sector": "Building Material & Manufacturing", "location": "Fällanden, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Record Group is in designing, manufacturing and delivering of doors." }, 
+
+     { "name": "Medartis", "sector": "Biotechnology & Health Care", "location": "Allschwil, Basel-Landschaft, Switzerland", "revenue": "$100M to $500M", "description": "Medartis develops, manufactures, and distributes medical implants for surgical fixation of bone fractures." }, 
+
+     { "name": "Ulyss Nardin", "sector": "Manufacturing & Luxury Goods", "location": "Le Locle, Neuchâtel, Switzerland", "revenue": "$100M to $500M", "description": "Ulyss Nardin manufactures luxury watches and chronometers." }, 
+
+     { "name": "Cosmetics, Manufacturing", "sector": "Cosmetics & Manufacturing", "location": "Kaiseraugst, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "Provides contract research, development, and manufacturing services for the cosmetic and pharmaceutical industries." }, 
+
+     { "name": "Advanced Bionics", "sector": "Developer Platform & Health Care", "location": "Stäfa, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Advanced Bionics Corporation develops implantable hearing systems." }, 
+
+     { "name": "Thommen Group", "sector": "Environmental Consulting", "location": "Zug, Zug, Switzerland", "revenue": "$100M to $500M", "description": "Thommen Group provides metal recycling, waste management, and environmental services." }, 
+
+     { "name": "Breguet", "sector": "Fashion & Jewelry", "location": "L'Abbaye, Vaud, Switzerland", "revenue": "$100M to $500M", "description": "Swiss manufacture of luxury watches." }, 
+
+     { "name": "Robatech", "sector": "Industrial & Manufacturing", "location": "Muri, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "Robatech is a provider of application systems for industrial gluing solutions." }, 
+
+     { "name": "Sonceboz", "sector": "Electrical Distribution & Electronics", "location": "Sonceboz, Bern, Switzerland", "revenue": "$100M to $500M", "description": "Sonceboz manufactures and distributes electric motors, actuators, and other electronic components." }, 
+
+     { "name": "Roche Diagnostics", "sector": "Biotechnology & Health Care", "location": "Basel, Basel-Stadt, Switzerland", "revenue": "$100M to $500M", "description": "Roche Diagnostics is a global leader in in vitro diagnostics." }, 
+
+     { "name": "Patrin Spirits International", "sector": "Food and Beverage & Manufacturing", "location": "Schaffhausen, Schaffhausen, Switzerland", "revenue": "$100M to $500M", "description": "Patrin Spirits International is a manufacturer of ultra-premium spirits." }, 
+
+     { "name": "Polypeptide Group", "sector": "Manufacturing & Biotechnology", "location": "Baar, Zug, Switzerland", "revenue": "$100M to $500M", "description": "The Polypeptide Group is a contract manufacturing organization that specializes in the production of peptides." }, 
+
+     { "name": "R&S Group", "sector": "Electronics & Infrastructure", "location": "Sissach, Basel-Landschaft, Switzerland", "revenue": "$100M to $500M", "description": "R&S Group is a provider of power products and systems." }, 
+
+     { "name": "Meyer Burger Energy", "sector": "Energy & Environmental", "location": "Thun, Bern, Switzerland", "revenue": "$100M to $500M", "description": "Meyer Burger supplies systems and production equipment for the photovoltaic and semiconductor industries." }, 
+
+     { "name": "Medela", "sector": "Electronics & Hardware", "location": "Baar, Zug, Switzerland", "revenue": "$100M to $500M", "description": "Medela transforms science into care while nurturing health for mothers and babies." }, 
+
+     { "name": "Archroma", "sector": "3D Printing & Manufacturing", "location": "Reinach, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "Archroma is a global color and specialty chemicals company." }, 
+
+     { "name": "Ascom Diabetes Care", "sector": "Health Care & Medical Devices", "location": "Basel, Basel-Stadt, Switzerland", "revenue": "$100M to $500M", "description": "Ascom Diabetes Care is a global diabetes care company dedicated to improving the lives of people with diabetes." }, 
+
+     { "name": "Habasit", "sector": "Energy & Industrial", "location": "Reinach, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "Habasit is the light conveyor and power transmission belts." }, 
+
+     { "name": "Yposmed", "sector": "Medical Device & Manufacturing", "location": "Burgdorf, Bern, Switzerland", "revenue": "$100M to $500M", "description": "Innovative, high-quality and reliable products and services." }, 
+
+     { "name": "LEM", "sector": "Electronics & Hardware", "location": "Fribourg, Fribourg, Switzerland", "revenue": "$100M to $500M", "description": "LEM is the market leader in the field of high-precision current and voltage measurement." }, 
+
+     { "name": "Paul Scherrer Institute (PSI)", "sector": "Biotechnology & Education", "location": "Villigen, Aargau, Switzerland", "revenue": "$100M to $500M", "description": "The Paul Scherrer Institute, PSI, is the largest research center for natural and engineering sciences in Switzerland." }, 
+
+     { "name": "Bucher Municipal", "sector": "Machinery Manufacturing", "location": "Niederweningen, Zurich, Switzerland", "revenue": "$100M to $500M", "description": "Bucher Municipal supplies municipal products, including sweepers, winter maintenance equipment, and waste collection vehicles." } 
+
+ ]

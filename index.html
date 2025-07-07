@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Company Database</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+    <div class="container mx-auto p-4 sm:p-6 lg:p-8">
+        <!-- Header Section -->
+        <header class="text-center mb-8">
+            <h1 class="text-4xl md:text-5xl font-bold text-gray-900">Company Database</h1>
+            <p class="text-lg text-gray-600 mt-2">Browse and filter through the company directory.</p>
+        </header>
+
+        <!-- Stats Section -->
+        <div id="stats-section" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+            <!-- Total Companies -->
+            <div class="bg-white p-6 rounded-2xl shadow-sm border border-gray-200 text-center flex flex-col justify-center">
+                <h3 class="text-sm font-medium text-gray-500 uppercase tracking-wider">Total Companies</h3>
+                <p id="total-companies" class="text-4xl font-bold text-indigo-600 mt-2">0</p>
+            </div>
+            <!-- Average Revenue -->
+            <div class="bg-white p-6 rounded-2xl shadow-sm border border-gray-200 text-center flex flex-col justify-center">
+                <h3 class="text-sm font-medium text-gray-500 uppercase tracking-wider">Average Revenue</h3>
+                <p id="average-revenue" class="text-4xl font-bold text-indigo-600 mt-2">$0M</p>
+            </div>
+            <!-- Companies per Country -->
+            <div class="bg-white p-6 rounded-2xl shadow-sm border border-gray-200">
+                <h3 class="text-sm font-medium text-gray-500 uppercase tracking-wider text-center mb-4">Companies per Country</h3>
+                <div id="companies-per-country" class="text-sm space-y-2 max-h-32 overflow-y-auto">
+                    <!-- Country stats will be injected here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Filter and Search Section -->
+        <div class="bg-white p-6 rounded-2xl shadow-md mb-8 sticky top-4 z-10">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <!-- Search by Name Input -->
+                <div>
+                    <label for="search-name" class="block text-sm font-medium text-gray-700 mb-1">Search by Name</label>
+                    <input type="text" id="search-name" placeholder="e.g., Stark Future" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
+                </div>
+                <!-- Filter by Sector Dropdown -->
+                <div>
+                    <label for="filter-sector" class="block text-sm font-medium text-gray-700 mb-1">Filter by Sector</label>
+                    <select id="filter-sector" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
+                        <option value="">All Sectors</option>
+                    </select>
+                </div>
+                <!-- Filter by Location Dropdown -->
+                <div>
+                    <label for="filter-location" class="block text-sm font-medium text-gray-700 mb-1">Filter by Country</label>
+                    <select id="filter-location" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
+                        <option value="">All Countries</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Company List Section -->
+        <main id="company-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Company cards will be injected here by JavaScript -->
+        </main>
+        
+        <!-- No Results Message -->
+        <div id="no-results" class="hidden text-center py-16">
+             <svg class="mx-auto h-12 w-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 13h6m-3-3v6m-9 1V7a2 2 0 012-2h14a2 2 0 012 2v10a2 2 0 01-2 2H4a2 2 0 01-2-2z" />
+            </svg>
+            <h3 class="mt-2 text-sm font-medium text-gray-900">No companies found</h3>
+            <p class="mt-1 text-sm text-gray-500">Try adjusting your search or filter criteria.</p>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
